@@ -3,6 +3,7 @@
 
 
 This domain focuses on helping current and prospective Colorado School of Mines students navigate academics, campus resources, housing, dining, student organizations, and day-to-day campus life.A Retrieval-Augmented Generation (RAG) system can consolidate this knowledge into a searchable assistant that provides grounded answers to common student questions.
+
 ---
 
 ## Documents
@@ -26,16 +27,17 @@ This domain focuses on helping current and prospective Colorado School of Mines 
 
 ## Chunking Strategy
 
-<!-- How will you split documents into chunks?
-     State your chunk size (in tokens or characters), overlap size, and explain why those
-     numbers fit the structure of your documents.
-     A review-heavy corpus warrants different chunking than a long FAQ. -->
+
+
 
 **Chunk size:**
+Splitting the documents into chunks of approximately **800 characters** with an overlap of **150 characters**. This chunk size works well because my corpus contains a mix of short web pages, department information, and student resource pages. The official university pages are usually organised into sections and paragraphs.
 
 **Overlap:**
+The overlap helps preserve context when important information appears near the boundary between two chunks. For example, a page may mention a campus resource in one sentence and explain how students use it in the next sentence. Without overlap, the retriever may return only part of the answer.
 
 **Reasoning:**
+If chunks are too small, the system may retrieve fragments that lack sufficient context to answer the question. If chunks are too large, the retrieved text may include too much unrelated information, making the LLM less grounded. I will evaluate chunk quality by checking whether retrieved chunks are specific, relevant, and complete enough to answer test questions.
 
 ---
 
@@ -48,64 +50,72 @@ This domain focuses on helping current and prospective Colorado School of Mines 
      support, accuracy on domain-specific text, latency? -->
 
 **Embedding model:**
+all-MiniLM-L6-v2 via sentence-transformers
 
 **Top-k:**
+Retrieving 4 chunks gives the LLM enough context without overwhelming it with unrelated text. If I retrieve too few chunks, the answer may miss important details. If I retrieve too many, the answer may become less focused or include irrelevant information.
 
 **Production tradeoff reflection:**
+
+Semantic search is useful because it can find related content even when the query and document do not use the exact same words. For example, a question about “career help” may retrieve chunks about the Career Center, internships, advising, or resume support.If this were deployed for real users and cost was not a constraint, I would compare stronger embedding models based on retrieval accuracy, context length, latency, cost, and performance on campus-specific language.
 
 ---
 
 ## Evaluation Plan
 
-<!-- List your 5 test questions with their expected correct answers.
-     Questions should be specific enough that you can judge whether the system's response
-     is right or wrong. "What are good dining halls?" is too vague.
-     "What do students say about wait times at [dining hall name] during lunch?" is testable. -->
-
-| # | Question | Expected answer |
-|---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| # | Test Question | Expected Correct Answer |
+|---|---------------|-------------------------|
+| 1 | Where can students find university department contact information? | The system should point to the Colorado School of Mines Contact Directory and mention that it lists university departments and student support contacts. |
+| 2 | Where can CS students find academic and career resources? | The system should identify the CS@Mines Student Resources page as a source for academic support, career resources, and student services. |
+| 3 | Where can students learn about MS Computer Science degree requirements? | The system should reference the CS@Mines MS Degree Program page and explain that it contains graduate degree and program requirement information. |
+| 4 | Where can students find information about campus dining? | The system should reference the Campus Dining page and mention dining locations, meal plans, and food services. |
+| 5 | Where can students find unofficial student experiences or advice? | The system should reference the Colorado School of Mines subreddit as a source for student discussions, advice, and campus experiences. |
 
 ---
 
 ## Anticipated Challenges
 
-<!-- What could go wrong? Name at least two specific risks with reasoning.
-     Consider: noisy or inconsistent documents, missing source attribution, off-topic
-     retrieval, chunks that split key information across boundaries. -->
+One challenge is that the documents may contain noisy or inconsistent information. Official Mines pages may be structured and factual, while Reddit discussions may include opinions, outdated comments, or conflicting student experiences.
 
-1.
+A second challenge is source attribution. The assistant should clearly show which source the answer came from so users can distinguish between official university information and informal student opinions.
 
-2.
+Another risk is off-topic retrieval. A broad query like “Where should I go for help?” may retrieve unrelated chunks unless the documents are chunked and labeled carefully.
+
+There is also a risk that chunk boundaries may split key information. Using overlap should reduce this issue, but I will still inspect retrieved chunks during testing.
+
+
 
 ---
 
 ## Architecture
 
-<!-- Draw a diagram of your pipeline showing the five stages:
-     Document Ingestion → Chunking → Embedding + Vector Store → Retrieval → Generation
-     Label each stage with the tool or library you're using.
-     You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
-     You'll use this diagram as context when prompting AI tools to implement each stage. -->
+```mermaid
+flowchart LR
+    A[Document Ingestion<br/>Requests + BeautifulSoup<br/>Mines Web Pages] -->
+    B[Chunking<br/>Python Chunker<br/>800 Characters<br/>150 Character Overlap]
+    B -->
+    C[Embedding Generation<br/>Sentence Transformers<br/>all-MiniLM-L6-v2]
+    C -->
+    D[Vector Store<br/>ChromaDB]
+    D -->
+    E[Retrieval<br/>Semantic Search<br/>Top-K = 4]
+    E -->
+    F[Generation<br/>Groq API<br/>Llama 3 Model]
+    F -->
+    G[Grounded Response<br/>Source Attribution]
+```
 
 ---
 
 ## AI Tool Plan
 
-<!-- For each part of the pipeline below, describe:
-     - Which AI tool you plan to use (Claude, Copilot, ChatGPT, etc.)
-     - What you'll give it as input (which sections of this planning.md, which requirements)
-     - What you expect it to produce
-     - How you'll verify the output matches your spec
+I plan to use AI tools to help with implementation, debugging, and prompt design.
+For chunking, I will provide ChatGPT or Claude with my chunking strategy, document types, and assignment requirements. I will ask it to implement a `chunk_text()` function using an 800-character chunk size and 150-character overlap.
+For retrieval, I will provide the retrieval approach section and ask the AI to help implement embedding generation using `sentence-transformers` and storage using ChromaDB.
+For response generation, I will provide the project requirements that the assistant must answer only from retrieved context. I will ask the AI to help write a grounded prompt template that tells the LLM to say when the answer is not found in the retrieved documents.
+For debugging, I will use ChatGPT to interpret Python errors, especially issues related to Groq API calls, ChromaDB storage, and retrieval output formatting.
 
-     "I'll use AI to help me code" is not a plan.
-     "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
-     with my specified chunk size and overlap" is a plan. -->
-
+For evaluation, I will use AI tools to help refine test questions and expected answers, but I will manually verify whether the system responses are grounded in the retrieved source chunks.
 **Milestone 3 — Ingestion and chunking:**
 
 **Milestone 4 — Embedding and retrieval:**

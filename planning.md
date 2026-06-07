@@ -10,7 +10,7 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
-
+This domain focuses on helping current and prospective Colorado School of Mines students navigate academics, campus resources, housing, dining, student organizations, and day-to-day campus life.A Retrieval-Augmented Generation (RAG) system can consolidate this knowledge into a searchable assistant that provides grounded answers to common student questions.
 ---
 
 ## Documents
@@ -18,18 +18,29 @@
 <!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
      Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
 
-| # | Source | Description | URL or location |
-|---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| # | Source | Description | URL or Location |
+
+|---|--------|-------------|----------------|
+
+| 1 | CS@Mines Homepage | Department overview, programs, resources, and announcements | https://cs.mines.edu/ |
+
+| 2 | CS@Mines Student Resources | Academic support, career resources, and student services | https://cs.mines.edu/students-resources/ |
+
+| 3 | CS@Mines Faculty and Staff | Faculty profiles, advisors, and contact information | https://cs.mines.edu/faculty-and-staff/ |
+
+| 4 | CS@Mines MS Degree Program | Graduate degree requirements and program information | https://cs.mines.edu/msdegree/ |
+
+| 5 | Colorado School of Mines Contact Directory | University departments and student support contacts | https://www.mines.edu/contact/ |
+
+| 6 | Residence Life | Housing policies, residence halls, and student housing information | https://www.mines.edu/residence-life/ |
+
+| 7 | Campus Dining | Dining locations, meal plans, and food services | https://www.mines.edu/dining/ |
+
+| 8 | Career Center | Career services, internships, and job search resources | https://www.mines.edu/career-center/ |
+
+| 9 | Colorado School of Mines Subreddit | Student discussions, advice, and campus experiences | https://www.reddit.com/r/ColoradoSchoolOfMines/ |
+
+| 10 | New Student Orientation | Orientation programs and resources for incoming students | https://www.mines.edu/new-student-orientation/ |
 
 ---
 

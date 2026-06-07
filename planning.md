@@ -1,27 +1,29 @@
 
 ## Domain
 
-
-This domain focuses on helping current and prospective Colorado School of Mines students navigate academics, campus resources, housing, dining, student organizations, and day-to-day campus life.A Retrieval-Augmented Generation (RAG) system can consolidate this knowledge into a searchable assistant that provides grounded answers to common student questions.
+This domain focuses on CS graduate student academic information at Colorado School of Mines, including degree requirements, registration policies, grading systems, graduation procedures, tuition policies, academic regulations, student conduct expectations, and graduate program offerings. While this information exists across multiple university documents and PDFs, it can be difficult for students to locate the correct policy quickly. This RAG system consolidates these resources into a searchable assistant that provides grounded answers based on official university documents.
 
 ---
 
 ## Documents
 
+| # | Source | Type | Description | Location |
+|---|--------|------|-------------|----------|
+| 1 | Mines Mission, Vision and Strategic Planning | PDF | University mission, vision, core values, and strategic planning overview from the President's Office | `documents/Mines Mission, Vision and Strategic Planning - President's Office.pdf` |
+| 2 | Colorado School of Mines Catalog | PDF | Official academic catalog covering the role, mission, degree programs, and educational philosophy of Mines | `documents/catalog.pdf` |
+| 3 | Computer Science Graduate Programs | PDF | CS department degrees (MS, PhD, Professional MS, Cybersecurity Certificate), admission requirements, and research areas | `documents/cs.pdf` |
+| 4 | Academic Regulations | PDF | Graduate school academic regulations including course registration rules, credit level policies, and program requirements | `documents/generalregulations.pdf` |
+| 5 | Graduate Grading System | PDF | Graduate grade symbols, incomplete grade policies, satisfactory progress grades, and pass/fail rules | `documents/graduategradingsystem.pdf` |
+| 6 | Graduation | PDF | Graduation application deadlines, commencement ceremony eligibility, and checkout procedures | `documents/graduation.pdf` |
+| 7 | Graduation Requirements | PDF | Registration requirements for graduation, checkout steps, and links to deadline resources | `documents/graduationrequirements.pdf` |
+| 8 | Policies and Procedures | PDF | Student code of conduct, academic integrity policy, misconduct definitions, and campus rules | `documents/policiesandprocedures.pdf` |
+| 9 | Registration and Tuition Classification | PDF | Graduate registration rules, full-time credit loads, overload policy, research credit, and leave of absence procedures | `documents/registrationandtuitionclassification.pdf` |
+| 10 | Robotics Graduate Programs | PDF | Robotics graduate certificate, MS (thesis and non-thesis), and PhD degrees, admissions, and combined BS+MS program | `documents/robotics.pdf` |
+| 11 | The Graduate School | PDF | Overview of Mines graduate programs, unique interdisciplinary offerings, and list of graduate degrees by field | `documents/thegraduateschool.pdf` |
+| 12 | Tuition, Fees, and Financial Assistance | PDF | Tuition and fee policies, refund schedules, financial aid, and room and board refund rules | `documents/tuitionfeesfinancialassistance.pdf` |
 
 
-| # | Source | Description | URL or Location |
-|---|--------|-------------|----------------|
-| 1 | CS@Mines Homepage | Department overview, programs, resources, and announcements | <https://cs.mines.edu/> |
-| 2 | CS@Mines Student Resources | Academic support, career resources, and student services | <https://cs.mines.edu/students-resources/> |
-| 3 | CS@Mines Faculty and Staff | Faculty profiles, advisors, and contact information | <https://cs.mines.edu/faculty-and-staff/> |
-| 4 | CS@Mines MS Degree Program | Graduate degree requirements and program information | <https://cs.mines.edu/msdegree/> |
-| 5 | Colorado School of Mines Contact Directory | University departments and student support contacts | <https://www.mines.edu/contact/> |
-| 6 | Residence Life | Housing policies, residence halls, and student housing information | <https://www.mines.edu/residence-life/> |
-| 7 | Campus Dining | Dining locations, meal plans, and food services | <https://www.mines.edu/dining/> |
-| 8 | Career Center | Career services, internships, and job search resources | <https://www.mines.edu/career-center/> |
-| 9 | Colorado School of Mines Subreddit | Student discussions, advice, and campus experiences | <https://www.reddit.com/r/ColoradoSchoolOfMines/> |
-| 10 | New Student Orientation | Orientation programs and resources for incoming students | <https://www.mines.edu/new-student-orientation/> |
+
 
 ---
 

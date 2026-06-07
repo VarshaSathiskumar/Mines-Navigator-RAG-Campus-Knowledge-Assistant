@@ -2,8 +2,7 @@
 
 ## 📌 Domain
 
-Mines Navigator is an AI-powered campus knowledge assistant that helps Colorado School of Mines students quickly find answers to academic and campus-life questions. The system leverages a Retrieval-Augmented Generation (RAG) architecture to retrieve relevant information from student-generated resources such as course reviews, professor feedback, housing discussions, campus guides, and community forums, and generates responses grounded in the retrieved content.
-
+Mines Navigator is an AI-powered campus knowledge assistant that helps Colorado School of Mines students quickly find answers to academic and campus-life questions. The system leverages a Retrieval-Augmented Generation (RAG) architecture to retrieve CS graduate student academic information, including degree requirements, registration policies, grading systems, graduation procedures, tuition policies, academic regulations, student conduct expectations, and graduate program offerings from official PDF documents. While this information exists across multiple university documents and PDFs, it can be difficult for students to locate the correct policy quickly. This RAG system consolidates these resources into a searchable assistant that provides grounded answers based on official university documents.
 The goal of the project is to make valuable student knowledge more accessible through a conversational interface while ensuring responses remain accurate, transparent, and supported by source documents.
 
 ## 🏗️ Features

@@ -6,12 +6,17 @@ import os
 from dotenv import load_dotenv
 from groq import Groq
 from retrieve import retrieve
+import streamlit as st
 
 load_dotenv()
 
 MODEL = "llama-3.3-70b-versatile"
 
-client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+client = Groq(
+
+    api_key=st.secrets["GROQ_API_KEY"]
+
+)
 
 PROMPT_TEMPLATE = """\
 You are a helpful assistant for Colorado School of Mines graduate students.

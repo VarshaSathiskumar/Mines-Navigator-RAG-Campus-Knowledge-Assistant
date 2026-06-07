@@ -1,0 +1,1083 @@
+SOURCE: documents/cs.pdf
+============================================================
+
+
+Computer Science GRADUATE CERTIFICATE IN
+CYBERSECURITY
+The minimum requirements for admission to the Graduate Certificate in
+Degrees Offered
+CyberSecurity are:
+- Master of Science (Computer Science)
+- Undergraduate-level knowledge on data structures, computer
+- Doctor of Philosophy (Computer Science)
+organization, algorithms, and operating systems.
+- Professional Master's Degree - Online
+- Undergraduate-level knowledge on statistics and discrete
+- Graduate Certificate in Cybersecurity
+mathematics.
+- Undergraduate-level skills on the Linux operating system and shell
+Program Overview scripts.
+- Undergraduate-level programming skills in languages such as C, C+
+The Computer Science Department offers the Master of Science and
++, Python, Java, JavaScript, and HTML/CSS.
+Doctor of Philosophy in Computer Science. These degree programs
+demand academic rigor and depth yet also address real-world problems. MASTER'S AND PHD
+The department’s research falls into six areas: algorithms, human- The minimum requirements for admission to the MS and Ph.D degrees in
+centered computing, machine learning and data science, robotics, Computer Science are:
+security and privacy. The Department of Computer Science has a strong
+- Applicants must have a bachelor's degree, or equivalent, from an
+emphasis on research, both within the department and collaboratively
+accredited institution with a grade-point average of 3.0 or better on a
+with other departments, universities, government organizations and
+4.0 scale.
+industry partners. See the CS@Mines Research webpage for updated
+details and current projects: https://cs.mines.edu/research/. - Students are expected to have completed the following coursework
+at Mines or equivalent at another institution: 1) CSCI200
+PROGRAM DETAILS FOUNDATIONAL PROGRAMMING CONCEPTS & DESIGN:
+Foundational Programming Concepts and Design, 2) CSCI220:
+The Computer Science Department offers a variety of programs:
+Data Structures and Algorithms, 3) CSCI306: Software Engineering,
+4) CSCI341: Computer Organization, 5) CSCI358: Discrete
+We offer the degrees Master of Science and Doctor of Philosophy
+Mathematics. It is strongly suggested applicants also have completed
+in Computer Science. The master's program is designed to prepare
+a course in Algorithms and Operating Systems. The CS graduate
+candidates for careers in industry or government or for further study at
+admissions committee will require that students who do not meet this
+the PhD level; both thesis and non-thesis options are available. The PhD
+expectation demonstrate competency or take remedial coursework.
+degree program is sufficiently flexible to prepare candidates for careers in
+Such coursework will not count toward the graduate degree. The
+industry, government, or academia.
+committee will decide whether to recommend regular or provisional
+Combined Program: The CS Department also offers combined BS/MS admission.
+degree programs. These programs offer an expedited graduate school - TOEFL score of 79 or higher (or 550 for the paper-based test or 213
+application process and allow students to begin graduate coursework for the computer-based test) for applicants whose native language
+while still finishing their undergraduate degree requirements. is not English. In lieu of a TOEFL score, and IELTS score of 6.5 or
+higher will be accepted.
+Admission PREREQUISITES
+- For the PhD program, prior research experience is desired but not
+BS+MS Combined required.
+Current Mines undergraduate students are encouraged to apply for the Admitted Students: The CS Department Graduate Committee may
+combined program once they have taken five or more Computer Science require that an admitted student take undergraduate remedial coursework
+classes at Mines (classes transferred from other universities will not be to overcome technical deficiencies. The committee will decide whether to
+considered). This requirement may be met by any 200-level or above recommend regular or provisional admission.
+course with a CSCI prefix (e.g., CSCI200, CSCI306, CSCI406 CSCI442,
+Transfer Courses: Graduate-level courses taken at other universities for
+etc.), excluding CSCI274, CSCI370, CSCI499.
+which a grade equivalent to a B or better was received will be considered
+Students should have an overall GPA of at least 3.0 and a GPA of 3.2 for transfer credit with approval of the advisor and/or thesis committee,
+for courses in the major. The calculation of GPA in the major will be and CS department head, as appropriate. Transfer credits must not
+based on all 200-level or above CSCI courses except those excluded have been used as credit toward a Bachelor degree. For the MS degree,
+above (i.e., CSCI274, CSCI370 and CSCI499). If a course is taken no more than nine credits may transfer. For the PhD degree, up to 24
+multiple times, all of the grades will be included into the GPA calculation. credits may be transferred. In lieu of transfer credit for individual courses,
+Interested students with a lower GPA must include in their statement students who enter the PhD program with a thesis-based master's degree
+of goals/personal statement a section explaining why they should be from another institution may transfer up to 36 credits in recognition of the
+admitted to the program. coursework and research completed for that degree.
+Advisor and Thesis Committee: Students must have an advisor from
+the CS faculty to direct and monitor their academic plan, research, and
+independent studies. Advisors must be full-time permanent members of
+the faculty. In this context, full-time permanent members of the faculty
+
+2 Computer Science
+are those that hold the rank of professor, associate professor, assistant coursework plus 9 hours of thesis credit leading to an acceptable
+professor, research professor, associate research professor or assistant master's thesis; thesis students are encouraged to find a thesis advisor
+research professor. Upon approval by the graduate dean, adjunct faculty, and form a thesis committee by the end of the first year. The non-thesis
+teaching faculty, visiting professors, emeritus professors, and off-campus option consists of two tracks: a Project Track and a Coursework Track.
+representatives may be designated additional co-advisors. A list of CS Requirements for the Project Track are 24 hours of coursework plus
+faculty by rank is available in the faculty tab of the catalog. 6 hours of project credit; requirements for the Coursework Track are
+30 hours of coursework. The following two core courses are required
+Master of Science (thesis option) students in CS must have at least of all students. Students may choose elective courses from any CSCI
+three members on their thesis committee; the advisor and one other graduate course offered by the department. In addition, up to 6 credits
+member must be permanent faculty in the CS Department. CS PhD of elective courses may be taken outside of CSCI. Lastly, a maximum
+thesis committees must have at least four members; the advisor/co- of six independent study course units can be used to fulfill degree
+advisor and two additional members must be permanent faculty in the CS
+requirements. Core courses for the program are below. CSCI 561 and
+Department, and one member must be outside the departmental faculty CSCI 564 (or an alternative course, subject to approval by the committee
+and serving as chair of the committee. Students who choose to have a based on the provided justification). Examples of potential alternative
+minor program must select a representative from the minor area of study courses include CSCI 582 (Computing Beyond CPUs), CSCI 565
+to serve on the thesis committee. (Distributed Computing), and CSCI 563 (Parallel Computing for Scientists
+and Engineers)..
+Degree Audit and Admission to Candidacy: Master's students must
+complete the Degree Audit form by the posted deadline. PhD students
+CSCI561 THEORY OF COMPUTATION (offered every fall) 3.0
+need to submit the Degree Audit form by the posted deadline and need
+CSCI564 ADVANCED COMPUTER ARCHITECTURE 3.0
+to submit the Admission to Candidacy form by the posted deadline of
+(offered every spring)
+the semester in which they want to be considered eligible for reduced
+registration.
+MS Project Track
+Time Limit: As stipulated by the Mines Graduate School, a candidate for Students are required to take 6 credits of CSCI700 to fulfill the MS
+a master's degree must complete all requirements for the degree within project requirement. (It is recommended that the 6 credits consist
+five years of the date of admission into the degree program. A candidate of two consecutive semesters of 3 credits each.) At most, 6 credits
+for a doctoral degree must complete all requirements for the degree of CSCI700 will be counted toward the masters non-thesis degree.
+within nine years of the date of admission into the degree program. Deliverables include a report and a presentation to a committee of two
+CS faculty including the advisor. Deliverables must be successfully
+PROGRAM REQUIREMENTS
+completed in the last semester in which the student registers for
+Mines' Combined Undergraduate/Graduate CSCI700. A student must receive two pass votes (i.e., a unanimous vote)
+to satisfy the project option.
+Degree Program
+MS Thesis Defense
+Students enrolled in Mines’ combined undergraduate/graduate program
+may double count up to 6 credits of graduate coursework (500-level or At the conclusion of the MS thesis, the student will be required to make
+above) to fulfill requirements of both their undergraduate and graduate a formal presentation and defense of her/his thesis research. A student
+degree programs. These courses must have been passed with B- or must pass this defense to earn an MS degree.
+better, not be substitutes for required coursework, and meet all other
+university, department, and program requirements for graduate credit. CS Minor
+Students are advised to consult with their undergraduate and graduate A CS Minor at the master's level requires a minimum of 9 credits of CSCI
+advisors for appropriate courses to double count upon admission to the coursework, of which at least 6 credits of coursework must be at the 500-
+combined program. level or above excluding independent studies and graduate seminars.
+Pursuant to Graduate School rules, all minors must be approved by the
+Current Mines undergraduate students are encouraged to apply for the student's advisor, home department head, and a faculty representative of
+combined program once they have taken five or more Computer Science the minor area of study. A minor may not be taken in the student's major
+classes at Mines (classes transferred from other universities will not be area of study.
+considered). This requirement may be met by any 200-level or above
+course with a CSCI prefix (e.g., CSCI200, CSCI306, CSCI406, CSCI442, CS@Mines Bridge Program
+etc.), excluding CSCI274, CSCI370, and CSCI499. Students should
+The Bridge Program is designed for those without a background in
+have an overall GPA of at least 3.0 and a GPA of 3.2 for courses in the
+CS to have a direct pathway to a Computer Science (CS) master’s
+major. The calculation of GPA in the major will be based on all 200-level
+(MS) degree. Students in the CS@Mines Bridge program will complete
+or above CSCI courses except those excluded above (i.e., CSCI274,
+foundational undergraduate courses which will prepare them for master’s
+CSCI370 and CSCI499). If a course is taken multiple times, all of the
+level coursework. Students will then continue to the MS non-thesis (NT)
+grades will be included into the GPA calculation. Interested students with
+program as a full-time or part-time student.
+a lower GPA must include in their statement of goals/personal statement
+a section explaining why they should be admitted to the program. All incoming Bridge students are required to have earned a bachelor’s
+degree from an accredited with a grade-point average of at least 3.0 on a
+Master of Science - Computer Science
+4.0 scale.
+The MS degree in Computer Science (thesis or non-thesis option)
+Bridge students are required to take a set of pre-requisite Bridge courses
+requires 30 credits. Requirements for the thesis MS are 21 hours of
+to prepare for the MS degree. Required courses are CSCI195, CSCI200,
+
+CSCI210, CSCI220, CSCI306, CSCI341, and CSCI358. Incoming - The second test area should be from another research area of
+students with no completed coursework in calculus or programming from interest to the student that is 1) supported by faculty within the CS
+an accredited institution may need to take Calculus 1-3 and CSCI128 in department and 2) different from the student's primary advisor's
+addition to the Bridge courses stated above. Students must earn a B or research area. It is highly recommended that the student choose
+higher in their Bridge coursework for it to count toward their progress in their secondary test area with an instructor the student has had
+the program. in one or more courses. This exam will likely be less substantial
+than the primary exam, i.e., instructions will be more concrete. The
+For more information regarding the program and application process, purpose of having a second test area is to ensure students can
+please contact our Graduate Program Manager, Kelsie Diaz, at demonstrate both the breadth of knowledge and the capability in
+kdiaz@mines.edu. doing independent research. Thus, no faculty member is allowed
+to assist the student in this second exam except for answering
+Doctor of Philosophy - Computer Science
+clarification questions.
+The PhD degree in Computer Science requires 72 credits of coursework
+Students must inform the CS Qualifying Committee Chair of their
+and research credits. Required coursework provides a strong background
+intention to take the exam by a specific date provided by the Chair in the
+in computer science. A course of study leading to the PhD degree can
+prior semester.
+be designed either for the student who has completed the master's
+degree or for the student who has completed the bachelor's degree. Step 2. The qualifying exam committee chair creates an exam committee
+The following three courses are required of all students. Students who of (at least) four appropriate faculty. The exam committee assigns the
+have taken equivalent courses at another institution may satisfy these student specific tasks with corresponding deliverables for both research
+requirements by transfer. Core courses for the program are below. CSCI areas chosen. The tasks will be some combination from the following list:
+561 and CSCI 564 (or an alternative course, subject to approval by the
+committee based on the provided justification). Examples of potential - design and evaluate new algorithms or systems for an important
+alternative courses include CSCI 582 (Computing Beyond CPUs), CSCI research problem, and write a report that summarizes the design and
+565 (Distributed Computing), and CSCI 563 (Parallel Computing for the evaluation results.
+Scientists and Engineers). - read a set of technical papers, write a summary of the papers read,
+make a presentation, and answer questions (presentations will be
+CSCI561 THEORY OF COMPUTATION (offered every fall) 3.0 limited to 30-minutes with a hard stop not including Q&A).
+CSCI564 ADVANCED COMPUTER ARCHITECTURE 3.0 - complete a hands-on activity (e.g., develop research software) and
+(offered every spring) write a report that explains the difficulties with the activity and what
+SYGN502 INTRODUCTION TO RESEARCH ETHICS 1.0 was learned.
+- complete a set of take-home problems.
+PhD Qualifying Examination
+- write a literature survey (i.e., track down references, separate
+Students desiring to take the PhD qualifying exam must have: relevant from irrelevant papers).
+- If required by your advisor, taken SYGN501: The Art of Science
+Step 3. The student must complete all deliverables no later than the
+(previously or concurrently).
+Monday of review week (11:59 p.m.). Failure to meet the deadline is
+- Completed (previously or concurrently) all core courses.
+considered a failed attempt. The submitted report on the deadline is
+- Complete (previously or concurrently) at least four CSCI 500-level considered to be final, i.e., no update is allowed after the due date/time.
+courses at Mines (only one CSCI599 is allowed). The oral presentation will be scheduled during Finals Week. Before
+- Maintained a GPA of 3.5 or higher in all CSCI 500-level courses the oral presentation, the student is not allowed to practice the exam
+taken. presentation with his/her advisor or research group to get feedback. The
+student will access exam problems, and submit deliverables through
+The PhD qualifying exam must be passed no later than the fourth a specified system such as Canvas course/module. Additionally, the
+semester of study. Exception must be formally requested via email to specified system will be used to deliver feedback from the committee to
+the qualifying exam committee chair and approved by the graduate the student outlining strengths, weaknesses, recommendations and exam
+committee. The PhD qualifying exam is offered once a semester. Each results.
+PhD qualifying exam comprises of two research areas, chosen by the
+student. The exam consists of the following steps: Step 4. Each member of the exam committee makes a recommendation
+on the deliverables from the following list: strongly support, support, and
+Step 1. A student indicates intention to take the CS PhD qualifying exam do not support. To pass the PhD qualifying exam, the student must have
+by choosing two research interest areas. at least two "strongly supports" and no more than one "do not support."
+If a student receives two or more "do not support" votes by the committee
+- The primary test area should be the same as the research area of
+members, the student fails the exam. All other cases other than pass or
+the student's (potential) advisor. This exam will be more open-ended
+fail are considered as conditional pass.
+research than the second test area. A formal written report and a
+formal presentation meeting are required for this exam. The outcome Conditional Pass Requirements
+of this exam can be part of the student's dissertation research. In fact,
+the student is strongly encouraged to create results that can lead to a If a student receives a conditional pass, the student is required to take
+publication. It is acceptable and encouraged if the advisor is involved (an) additional test(s). The exam committee will explicitly specify the
+to provide suggestions. The student is required to clearly document in deadline for the student to take the additional test in the feedback
+the written report how the advisor was involved in the exam. comments to the student. The deadline will likely be in the beginning
+
+4 Computer Science
+weeks of the following semester. The additional test(s) may be the The track in Artificial Intelligence & Applied Machine Learning is targeted
+whole or part(s) of the original qualifying exam or may be an additional to train recent graduates or mid-career professionals with a bachelor's
+task, as determined by the exam committee. If the student passes the degree in computer science or other STEM-related field with acquired
+assigned additional test, the conditional pass will be converted into a basic knowledge in programming, data structures, statistics, and linear
+pass; otherwise, the outcome of the qualifying exam will be a fail. algebra.
+The student is informed of the qualifying exam decision (pass, fail, or To complete the track in Artificial Intelligence & Applied Machine
+conditional pass) no later than the Monday after finals week. The student Learning, students must complete 9 hours of coursework as follows:
+is informed of the outcome of a conditional pass test within two weeks
+after the test. A student can only fail the exam one time. If a second - Required courses:
+failure occurs, the student has unsatisfactory academic performance that - DSCI 503: Advanced Data Science
+results in an immediate, mandatory dismissal of the graduate student - DSCI 570: Machine Learning
+from the PhD program.
+- Pick one from the following:
+PhD Thesis Proposal: After passing the qualifying exam, the PhD student
+is allowed up to 18 months to prepare a written thesis proposal and - DSCI 530: Statistical Methods
+present it formally to the student’s thesis committee and other interested
+- DSCI 575: Advanced Machine Learning
+faculty.
+- CSCI 576: Deep Learning
+Admission to Candidacy: In addition to the Graduate School
+requirements, full-time PhD students must complete the following - CSCI 578: Bioinformatics (Assignments are geared towards
+requirements within two calendar years of enrolling in the PhD program. analytics *)
+- Have a thesis committee appointment form on file in the Graduate - CSCI 507: Computer Vision (Assignments are geared towards
+Office. analytics *)
+- Have passed the PhD qualifying exam demonstrating adequate
+preparation for, and satisfactory ability to conduct doctoral research.
+* Note: The assignments are focused on applying analytical techniques
+PhD Thesis Defense: At the conclusion of the student’s PhD program, and methodologies, with an emphasis on data analysis, interpretation,
+the student will be required to make a formal presentation and defense of and deriving insights from data. They are designed to develop students'
+her/his thesis research. A student must pass this defense to earn a PhD skills in exploring, processing, and making data-driven decisions using
+degree. various tools and frameworks commonly used in analytics.
+CS Minor Track 2: Cybersecurity
+A CS Minor at the PhD level requires a minimum of 12 credits of CSCI The track in Cybersecurity is targeted to train recent graduates or mid-
+coursework, of which 9 credits of coursework must be at the 500- career professionals with a bachelor’s degree in computer science or
+level or above excluding independent studies and graduate seminars. a related field with a foundational knowledge in programming, data
+Pursuant to Graduate School rules all minors must be approved by the structures, algorithms, systems programming, statistics, and discrete
+student's advisor, home department head, and a faculty representative of math.
+the minor area of study. A minor may not be taken in the student's major
+area of study. To complete the track in Cybersecurity, students must complete 9 hours
+of coursework as follows:
+PROFESSIONAL MASTERS DEGREE IN
+- Required courses:
+COMPUTER SCIENCE
+- CSCI 574: Theory of Cryptography
+To earn a professional master’s (MP-NT) degree, students must complete
+30 credits as outlined below. The program is composed of four flexible - CSCI 585: Information Security and Privacy
+tracks from the options listed. To complete the 30 credit hours, students
+would be required to complete any 3 tracks, along with an additional
+- Pick one from the following:
+elective course. The required elective course may be fulfilled by any
+CSCI course from the track options listed if it is not being used to
+- CSCI 560: Fundamentals of Computer Networks
+complete one of their chosen tracks. At least 7 out of 10 required courses
+MUST be CSCI/DSCI. Students may enroll in the professional master’s - CSCI 587: Cyber Physical Systems Security
+program from the outset and take courses from the various tracks in any
+order.
+Track 3: Analytics and Project Management
+Our Professional Master’s program launched in Fall 2025. We will
+increase the number of courses available for the MP-NT in CS degree The track in Analytics and Project Management is targeted to train
+over the coming semesters to give both students and faculty more recent graduates or mid-career professionals with a bachelor's degree
+flexibility with offerings: in computer science or other STEM-related field with acquired basic
+knowledge in programming, data structures, statistics, and linear algebra.
+Track 1: Artificial Intelligence & Applied Machine Learning
+
+To complete the track in Analytics and Project Management, students in programming, data structures, algorithms, systems programming,
+must complete 9 hours of coursework as follows statistics, and discrete math.
+- Required course: To complete the online Graduate Certificate in Cybersecurity, students
+must complete 9 hours of coursework as follows:
+- EBGN 525: Business Analytics
+- Required Courses:
+- Pick two from the following: o CSCI 574: Theory of Cryptography
+- EBGN553: Project Management o CSCI 585: Information Security and Privacy
+- EBGN 563: Management of Technology and Innovation (taught - Pick one from the following:
+by Scott Houser)
+o CSCI 560: Fundamentals of Computer Networks
+- EBGN 565: Marketing for Technology-based companies
+o CSCI 587: Cyber Physical Systems Security
+- EBGN 571: Marketing Analytics
+While all courses are to be delivered online, students that are interested
+- EBGN 577: Leading and Managing High Performance Teams in attending an on-campus class may substitute one of the above courses
+with a pre-approved elective as listed in our Graduate Catalog.
+Projects in these courses would focus on software development or data FUTURE PLANS
+science/machine learning, with an emphasis on requiring more in-depth
+software development and analysis. As the online program expands, we In the 2025-2026 academic year, we aim to expand our course offerings
+plan to add more computer science-oriented courses to this certificate in collaboration with our external advisory committee to meet the evolving
+track, such as cybersecurity leadership and operations. needs of working professionals. Based on our ongoing conversations,
+we plan to introduce a new course focused on Cybersecurity Leadership
+Track 4: #Advanced Software Technologies and Operations to address key industry priorities. This course, designed
+to support students in preparing for the CISSP exam from ISC2, will
+The track in Advanced Software Technologies is targeted to train
+complement the following curriculum:
+recent graduates or mid-career professionals with a bachelor's degree
+in computer science or other STEM-related field with acquired basic - Required Courses:
+knowledge in programming, data structures, and software engineering.
+o CSCI 574: Theory of Cryptography
+To complete the track in Advanced Software Technologies, students
+must complete 9 hours of coursework as follows: o CSCI 585: Information Security and Privacy
+- Required courses: - Pick one from the following:
+- CSCI 520: Software Engineering Systems Development I o CSCI 560: Fundamentals of Computer Networks
+- CSCI 521: Software Engineering Systems Development II o CSCI 587: Cyber Physical Systems Security
+o CSCI 5xx: Cybersecurity Leadership and Operations (this course
+- Pick one from the following: is added to help prepare students for the CISSP exam from ISC2).
+- CSCI 578: Bioinformatics (Assignments are geared towards Courses
+software design ^)
+CSCI500. GRADUATE SEMINAR. 0.0 Semester Hrs.
+- CSCI 507: Computer Vision (Assignments are geared towards This zero-credit graduate course builds on the CS department seminars
+software design ^) in the colloquium series, which consist of presentations delivered by
+external or internal invited speakers on topics broadly related to computer
+science. The seminar is mandatory for all Ph.D. students. The students
+^ Note: The assignments are focused on developing and applying are required to enroll in the course every semester. Any student who
+software design principles, emphasizing the creation of robust, scalable, cannot take the course for valid reasons should notify their advisor, who
+and efficient systems. They are designed to enhance students' skills will then make a request to the CS graduate committee for a waiver.
+in structuring, designing, and implementing software solutions, while These requests could be for the duration of one semester or longer. The
+considering best practices, design patterns, and user needs within real- course will be graded as PRG/PRU based on student attendance at the
+world scenarios. k department seminars in the colloquium series - the student has to attend
+at least two thirds of all the seminars each semester in order to get a
+Graduate Certificate in Cybersecurity
+PRG grade.
+Course Learning Outcomes
+The online Graduate Certificate in Cybersecurity is targeted to train
+recent graduates or mid-career professionals with a bachelor’s degree
+CSCI507. INTRODUCTION TO COMPUTER VISION. 3.0 Semester Hrs.
+in computer science or a related field with a foundational knowledge
+Equivalent with CSCI437,CSCI512,EENG507,EENG512,
+
+6 Computer Science
+(I) Computer vision is the process of using computers to acquire images, - Create a moderately complex software application that integrates
+transform images, and extract symbolic descriptions from images. This one or more software design patterns to ensure reusability,
+course provides an introduction to this field, covering topics in image maintainability, and adherence to object-oriented design principles.
+formation, feature extraction, location estimation, and object recognition. - Evaluate an object-oriented software design based on its flexibility,
+Design ability and hands-on projects will be emphasized, using popular extensibility, and maintainability, using SOLID principles and object-
+software tools. The course will be of interest both to those who want to oriented best practices.
+learn more about the subject and to those who just want to use computer
+- Transfer design principles derived from patterns to refactor existing
+imaging techniques. 3 hours lecture; 3 semester hours. Prerequisite:
+object-oriented systems and to develop high-quality solutions for new
+Undergraduate level knowledge of linear algebra, statistics, and a
+software design scenarios.
+programming language.
+- Analyze a software design problem to select and justify an
+Course Learning Outcomes
+appropriate design based on the problem context and design goals.
+- 1. Be able to analyze and predict the behavior of image formation, - Analyze object-oriented software designs to identify antipatterns and
+transformation, and recognition algorithms their impact on system quality and maintainability.
+- 2. Be able to design, develop, and evaluate algorithms for specific - Create UML diagrams to communicate software design decisions
+applications and justify those decisions based on design principles and problem
+- 3. Be able to use software tools to implement computer vision context.
+algorithms
+CSCI520. SOFTWARE ENGINEERING SYSTEMS DEVELOPMENT I.
+- 4. Communicate (in oral and written form) methods and results to a
+3.0 Semester Hrs.
+technical audience
+This is the first course of the two-semester sequence. In this course
+you will be addressing realistic, open-ended design changes for clients
+CSCI508. ADVANCED TOPICS IN PERCEPTION AND COMPUTER
+in interdisciplinary (when appropriate) teams. The design projects are
+VISION. 3.0 Semester Hrs.
+chosen by the course faculty to develop creativity, encourage use of
+Equivalent with EENG508,
+appropriate design methods and application of technical skills. You are
+(II) This course covers advanced topics in perception and computer
+expected to successfully address the given challenge. The devised
+vision, emphasizing research advances in the field. The course focuses
+solution in partnership with the client must be within the constraints of
+on structure and motion estimation, general object detection and
+elements such as cost, sustainability, manufacturability/deployment.
+recognition, and tracking. Projects will be emphasized, using popular
+Projects many be both hardware and software focused. By the end of the
+software tools. Prerequisites: EENG507 or CSCI507. 3 hours lecture; 3
+first semester, teams should have a fully defined the system architecture,
+semester hours.
+specifications, and operation. Solution components have been modeled,
+Course Learning Outcomes
+analyzed and selected and a proof-of-concept protype developed to
+- 1. Be able to review the literature on computer vision and create a demonstrate the solution to the client.
+critical review Course Learning Outcomes
+- 2. Be able to design, develop, and evaluate algorithms for specific
+- Develop and maintain a project management plan to address a
+applications
+software engineering design challenge that includes a clear definition
+- 3. Be able to use software tools to implement computer vision of done and detailed project schedule.
+algorithms
+- Formulate a clear, concise set of correctly constructed engineering
+- 4. Communicate (in oral and written form) methods and results to a metrics/constraints and specifications for a software/hardware
+technical audience engineering design challenge.
+- Develop and graphically communicate multiple innovative high-level
+CSCI519. SOFTWARE DESIGN PATTERNS. 3.0 Semester Hrs.
+design solutions to a given software/hardware engineering challenge.
+This course focuses on fundamental software design patterns for object-
+oriented design to create extensible and maintainable software solutions. - Utilize decision methods to select the most promising solutions(s) that
+Design patterns provide time tested solution templates to recurring meet(s) constraints and requirements for the given design challenge.
+architectural challenges in com ex software systems. Core topics include - Develop a proof-of-concept protype(s) for the critical and high-risk
+Gang of Four (GoF) design patterns, antipatterns, and refactoring functional elements of the design challenge.
+to patterns, where students apply multiple patterns in conjunction to - Develop a project completion plan and execute Agile project
+modify non-toy code examples. The Model-View-Controller (MVC) development methodology that allows the team to successfully meet
+architecture is examined as a compound pattern to dissect how individual the project goals.
+patterns interact within a larger system. Lectures are supplemented by - Apply appropriate technical knowledge to solve a design challenge.
+in-class exercises focused on UML modeling or code implementation.
+- Communicate your engineering design, research, analysis, decision
+Assignments require students to solve specific scenarios by providing a
+making and solution via professional, technical, and industry
+design justification, UML diagrams, and implementation, all of which are
+appropriate written documentation packages.
+evaluated against SOLID principles. By the end of the course, students
+- Communicate technical information verbally as part of a sprint or
+will be able to efficiently communicate program structures and develop
+design review and synthesize feedback from stakeholders and
+high-quality, professional software. Prerequisites: CSCI306.
+clients.
+Course Learning Outcomes
+- Identify and analyze the ethical, environmental, societal and/or
+economic impact of considered design solutions.
+
+- Function effectively on a team whose members together provide - 1 - Understand the basic ethical theories, concepts, tools, and
+leadership, create a collaborative and inclusive environment, frameworks for analyzing the social and ethical ramifications of
+establish goals, plan tasks and meet design challenge objectives. robotics
+- Evaluate your success as a designer by reflecting on your experience - 2 - Be able to critically examine the ethical significance of the
+and proposing strategies for future self-improvement. use of robotics in daily and technical fields including human-robot
+interaction, medicine, relationship, military, etc.
+CSCI521. SOFTWARE ENGINEERING SYSTEMS DEVELOPMENT II. - 3 - Develop a critical attitude toward the role of robotics in shaping
+3.0 Semester Hrs. human society including human perceptions and behaviors
+This is the second course of the two-semester sequence. In this course
+- 4 - Be able to use the theories, concepts, tools, and frameworks
+you will be addressing realistic, open-ended design changes for clients
+learned from this class to critically examine emerging robot ethics
+in interdisciplinary (when appropriate) teams. The design projects are
+issues in the society.
+chosen by the course faculty to develop creativity, encourage use of
+- 5 - Understand the tradeoffs underlying the design of autonomous
+appropriate design methods and application of technical skills. You are
+moral agents.
+expected to successfully address the given challenge. The devised
+solution in partnership with the client must be within the constraints of - 6 - Conduct robot ethics research grounded in both human-subject
+elements such as cost, sustainability, manufacturability/deployment. experimentation and algorithm development.
+Projects many be both hardware and software focused. By the end of the
+first semester, teams should have a fully defined the system architecture, CSCI533. PLANNING FOR SENSING, PERCEPTION, AND
+specifications, and operation. Solution components have been modeled, COVERAGE. 3.0 Semester Hrs.
+analyzed and selected and a proof-of-concept prototype developed to Sensing and coverage planning are ubiquitous in robots. How can a
+demonstrate the solution to the client. Prerequisites: CSCI520. robot vacuum efficiently move about to clean your floors? How should
+Course Learning Outcomes teams of robots coordinate to photograph growing crops or survey
+a population of penguins? What observations should robots take to
+- Design an engineering solution for your given design challenge within inspect a building or film an athlete? How should you assign tasks and
+constraints. resources in a multi-robot team? In this course, we will study planning
+- Demonstrate design feasibility through engineering analysis. and (often combinatorial) optimization methods that connect all of these
+problems. Prerequisites: Graduate standing; Recommended: CSCI 406
+- Identify project and/or technical risks and develop a proactive risk
+(Algorithms); CSCI 358 (Discrete Mathematics).
+mitigation plan.
+Course Learning Outcomes
+- Test and analyze a solution.
+- Deploy a solution into the environment within constraints. - Formulate relevant optimization problems.
+- Develop a project completion plan and execute Agile project - Analyze optimization problems.
+development methodology that allows the team to successfully meet - Prove properties of planning algorithms.
+the project goals.
+- Design and implementation of relevant methods.
+- Apply appropriate technical knowledge to solve a design challenge.
+- Research reading and communication.
+- Communicate your engineering design, research, analysis, decision
+- Design and solution for perception planning and sensing.
+making and solution via professional, technical, and industry
+- Identification of applications of theory.
+appropriate written documentation packages.
+- Communication of research works.
+- Communicate technical information verbally as part of a sprint or
+design review and synthesize feedback from stakeholders and - Breadth of applications.
+clients.
+CSCI534. ROBOT PLANNING AND MANIPULATION. 3.0 Semester
+- Identify and analyze the ethical, environmental, societal and/or
+Hrs.
+economic impact of considered design solutions.
+An introduction to planning in the context of robotics covering symbolic
+- Function effectively on a team whose members together provide and motion planning approaches. Symbolic computation, symbolic
+leadership, create a collaborative and inclusive environment, domains, and efficient algorithms for symbolic planning; Robot
+establish goals, plan tasks and meet design challenge objectives. kinematics, configuration spaces, and algorithms for motion planning.
+- Evaluate your success as a designer by reflecting on your experience Applications of planning will focus on manipulation problems using robot
+and proposing strategies for future self-improvement. arms.
+Course Learning Outcomes
+CSCI532. ROBOT ETHICS. 3.0 Semester Hrs.
+(II) This course explores ethical issues arising in robotics and - 1 - Implement algorithms for symbolic computation
+human-robot interaction through philosophical analysis, scientific - 2 - Construct symbolic planning domains for new scenarios
+experimentation, and algorithm design. Topics include case studies in - 3 - Implement algorithms for symbolic planning via constraint-solving
+lethal autonomous weapon systems, autonomous cars, and social robots, and heuristic search
+as well as higher-level concerns including economics, law, policy, and
+- 4 - Implement algorithms for sampling-based motion planning
+discrimination. Graduate enrollees will additionally participate in and
+- 5 - Construct kinematic models of robot manipulators
+report on the results of empirical and computational robot ethics research,
+with the goal of developing publishable works. Prerequisite: Graduate - 6 - Analyze planning algorithms for key properties: correctness,
+student standing. completeness, optimality
+Course Learning Outcomes - 7 - Evaluate the suitability of different planning approaches and apply
+appropriate algorithms to new planning scenarios
+
+8 Computer Science
+- 8 - Communicate implementations, analysis, and evaluation in written and experiment with running them on real-world sensor data to build
+and oral form 3D environment maps.
+- Learn standard benchmarking metrics used to evaluate the
+CSCI536. HUMAN-ROBOT INTERACTION. 3.0 Semester Hrs. performance of SLAM systems, and implement them to critically
+Human-Robot Interaction is an interdisciplinary field at the intersection assess the accuracy, efficiency, and robustness of these systems.
+of Computer Science, Robotics, Psychology, and Human Factors, that
+- Build a complete SLAM pipeline from scratch in a team-based
+seeks to answer a broad set of questions about robots designed to
+project, and develop an understanding of the required real-world
+interact with humans (e.g., assistive robots, educational robots, and
+trade-offs between performance, runtime, and robustness.
+service robots), such as: (1) How does human interaction with robots
+- Identify existing challenges and open problems in SLAM, and
+differ from interaction with other people? (2) How does the appearance
+propose innovative research directions to advance the state of the
+and behavior of a robot change how humans perceive, trust, and interact
+field.
+with that robot? And (3) How can we design and program robots that
+are natural, trustworthy, and effective? Accordingly, In this course,
+CSCI538. AUGMENTED REALITY. 3.0 Semester Hrs.
+students will learn (1) how to design interactive robots, (2) the algorithmic
+Augmented reality is the process of augmenting the real world with
+foundations of interactive robots; and (3) how to evaluate interactive
+virtual content, typically with hand-held or head-mounted displays.
+robots. To achieve these learning objectives, students will read and
+This course will provide an overview of augmented reality, including
+present key papers from the HRI literature, complete an individual final
+applications, technical foundations (computer vision, optics, graphics,
+project tailored to their unique interests and skillsets, and complete a
+and human factors), and recent developments in the field. Projects
+group project in which they will design, pilot, and evaluate novel HRI
+will be emphasized, using popular software tools. Augmented reality
+experiments, with in-class time expected to be split between lecture
+is a systems-thinking problem where it is helpful to have a good
+by the instructor, presentations by students, and either collaborative
+understanding of several areas, including computer vision, optics,
+active learning activities or discussions with researchers in the field.
+graphics, and human-computer interaction. Projects will provide students
+Prerequisite: Data Structures, Probability and Statistics or equivalent.
+with opportunities to gain a deeper understanding of these areas, as well
+Course Learning Outcomes
+as to build a portfolio for possible future careers in augmented reality.
+- Understand the theoretical foundations and critical application Course Learning Outcomes
+domains of human-robot interaction.
+- At the completion of the course, you will be able to:
+- Employ design techniques to design interactive robots.
+- Design human-subject experiments to evaluate interactive robots. CSCI542. SIMULATION. 3.0 Semester Hrs.
+- Perform qualitative and quantitative analysis on the results of human- (I) Advanced study of computational and mathematical techniques
+robot interaction experiments. for modeling, simulating, and analyzing the performance of various
+systems. Simulation permits the evaluation of performance prior to
+CSCI537. ROBOTIC MAPPING AND LOCALIZATION. 3.0 Semester the implementation of a system; it permits the comparison of various
+Hrs. operational alternatives without perturbing the real system. Topics to
+This course introduces the principles and techniques of simultaneous be covered include simulation techniques, random number generation,
+localization and mapping (SLAM), a core capability in modern robotics. Monte Carlo simulations, discrete and continuous stochastic models,
+Students will learn how to leverage robot sensors (including cameras and point/interval estimation. Offered every other year. 3 hours lecture; 3
+and laser scanners) to construct 3D maps of an environment and semester hours.
+estimate the robot’s position within it. The course covers both the front-
+CSCI544. ADVANCED COMPUTER GRAPHICS. 3.0 Semester Hrs.
+end techniques, which process raw sensor data (e.g., camera images)
+Equivalent with MATH544,
+to generate initial 3D maps and position estimates, and the back-end
+This is an advanced computer graphics course in which students will
+techniques, which refine these outputs by filtering outliers, optimizing
+learn a
+trajectories, and fusing local maps into a consistent global representation.
+variety of mathematical and algorithmic techniques that can be used to
+The course includes hands-on homework and projects in which students
+solve
+will implement SLAM algorithms and test them on real-world data
+fundamental problems in computer graphics. Topics include global
+collected by robots. Prerequisites: No official prerequisites, but requires
+illumination,
+knowledge of - Linear algebra, calculus, probability, and statistics - Linux,
+GPU programming, geometry acquisition and processing, point based
+Algorithms, C++, and Python - Computer vision.
+graphics
+Course Learning Outcomes
+and non-photorealistic rendering. Students will learn about modern
+rendering and
+- Learn foundational mathematical tools (from linear algebra,
+geometric modeling techniques by reading and discussing research
+optimization, and statistics) and use them to formulate, analyze, and
+papers and
+solve different problems in robotic mapping and localization.
+implementing one or more of the algorithms described in the literature.
+- Develop a deep understanding of front-end SLAM techniques,
+including feature extraction, pinhole camera modeling, and multi-view CSCI555. GAME THEORY AND NETWORKS. 3.0 Semester Hrs.
+geometry, to generate initial 3D maps and pose estimates. Equivalent with CSCI455,
+(II) An introduction to fundamental concepts of game theory with a
+- Develop a deep understanding of back-end SLAM techniques,
+focus on the applications in networks. Game theory is the study that
+including graph optimization, outlier rejection, and loop closure, to
+analyzes the strategic interactions among autonomous decision-makers.
+refine local maps into consistent global representations.
+Originated from economics. Influenced many areas in Computer Science,
+- Integrate state-of-the-art SLAM algorithms in Python or C++, learn
+including artificial intelligence, e-commerce, theory, and security and
+how to use them in the Robot Operating System (ROS) framework,
+privacy. Provides tools and knowledge for modeling and analyzing real-
+
+world problems. Prerequisites: CSCI406 Algorithms. 3 hours lecture; 3 - Formally prove capabilities and limits, such as decidability and
+semester hours. complexity of new problems, based on computational classes.
+Course Learning Outcomes - Evaluate potentially effective (or ineffective) approaches for new
+problems based on language and complexity class.
+- 1. Understand the basic concepts in game theory
+- Apply reduction techniques to show the equivalence between
+- 2. Be able to model and analyze real-world problems as games
+different computational problems.
+- 3. Learn about the game theoretic applications in networks
+- 4. Have the opportunity to apply game theory to other fields CSCI562. APPLIED ALGORITHMS AND DATA STRUCTURES. 3.0
+Semester Hrs.
+CSCI560. FUNDAMENTALS OF COMPUTER NETWORKS. 3.0 (II) Industry competitiveness in certain areas is often based on the use
+Semester Hrs. of better algorithms and data structures. The objective of this class is
+This course provides an introduction to fundamental concepts in the to survey some interesting application areas and to understand the
+design and implementation of computer communication networks, core algorithms and data structures that support these applications.
+their protocols, and applications. Topics include overview of network Application areas could change with each offering of the class, but would
+architectures, applications, network programming interfaces (e.g., include some of the following: VLSI design automation, computational
+sockets), transport, congestion, routing, and data link protocols, biology, mobile computing, computer security, data compression, web
+addressing, local area networks, wireless networks, and network security. search engines, geographical information systems. 3 hours lecture; 3
+Examples are drawn primarily from the Internet (e.g., TCP, UDP, and IP) semester hours. Prerequisite: CSCI406.
+protocol suite. If you have taken CSCI 471, you will not receive credit for Course Learning Outcomes
+this course. Prerequisite: CSCI442.
+Course Learning Outcomes - Communicate effectively on matters related to algorithms and data
+structures to a range of audiences using a range of media.
+- Given a packet capture and using the mental picture of TCP/IP - Solve moderately open-ended problems related to graphs, NP
+networking you have developed, formulate a hypothesis about the completeness, approximation algorithms, and geometric algorithms.
+behavior of the network from which the capture was taken. If the
+- Demonstrate attention to detail (with respect to definitions,
+network is not behaving correctly generate a plausible explanation
+terminology, notation, language) as measured by performance on
+about what is wrong.
+multiple-choice and true-false questions on online-quizzes.
+- In this course students will be expected to learn the details of
+- Execute a sequence of increasingly difficult (but guided) research
+8 protocols (they will be introduced to more, but don’t need to
+related tasks related to an important application area that requires.
+internalize those). For each of the 8 protocols students will be
+- Function effectively as a team member with effectiveness being
+expected to evaluate a hypothetical network environment and
+determined by peer ratings, self-assessment and instructor
+determine if a proposed protocol or protocol feature is appropriate in
+observations.
+that environment.
+- Use common network analysis tools including Ping, Wireshark, and
+CSCI563. PARALLEL COMPUTING FOR SCIENTISTS AND
+Traceroute.
+ENGINEERS. 3.0 Semester Hrs.
+- Design and implement network communication tools using the (I) Students are taught how to use parallel computing to solve complex
+standard Socket() programming library. scientific problems. They learn how to develop parallel programs, how to
+- Know the source of standards documents, analyze those documents analyze their performance, and how to optimize program performance.
+and evaluate the limits of standards-based technology. The course covers the classification of parallel computers, shared
+- Apply knowledge of network design principles to alternative protocols memory versus distributed memory machines, software issues, and
+and stacks. hardware issues in parallel computing. Students write programs for state
+of the art high performance supercomputers, which are accessed over
+- Evaluate proposed network/protocol design against common
+the network. Prerequisite: Programming experience in C. 3 hours lecture;
+information security standards.
+3 semester hours.
+CSCI561. THEORY OF COMPUTATION. 3.0 Semester Hrs. Course Learning Outcomes
+(I) An introduction to abstract models of computation and computability
+- Develop parallel programs to solve complex scientific problems using
+theory; including finite automata (finite state machines), pushdown
+both shared memory and distributed memory models.
+automata, and Turing machines. Language models, including formal
+- Analyze and optimize the performance of parallel algorithms to
+languages, regular expressions, and grammars. Decidability and
+achieve efficient computational solutions.
+undecidability of computational problems. 3 hours lecture; 3 semester
+hours. Prerequisite: CSCI406. - Classify and differentiate between various parallel computing
+Course Learning Outcomes architectures and understand the associated hardware and software
+challenges.
+- Design and implement various types of automata, including finite - Gain hands-on experience with high-performance supercomputers by
+automata, pushdown automata, and Turing machines. writing, testing, and debugging parallel applications over networked
+- Model and solve computational problems using formal language environments.
+representations and algorithms.
+- Communicate effectively using mathematically precise terminology, CSCI564. ADVANCED COMPUTER ARCHITECTURE. 3.0 Semester
+particularly about topics in language and complexity theory. Hrs.
+The objective of this class is to gain a detailed understanding about the
+options available to a computer architect when designing a computer
+
+10 Computer Science
+system along with quantitative justifications for the options. All aspects topics include wireless and mobile networks, multimedia networking,
+of modern computer architectures including instruction sets, processor and network security. In addition, recent research and developments
+design, memory system design, storage system design, multiprocessors, are also studied, which include mobile sensing, Internet of Things (IoT),
+and software approaches will be discussed. Prerequisite: CSCI341. 3 social computing and networks, mobile ad-hoc networks, wireless sensor
+hours lecture; 3 semester hours. networks, software defined networking, and future Internet architecture.
+Course Learning Outcomes Course Learning Outcomes
+- Understand quantitative methods to evaluate system performance, - Articulate wireless networking challenges.
+including metrics and benchmarks. - Describe wireless MAC layer protocols.
+- Analyze the design and optimization of memory hierarchies, including - Describe the design of WiFi networks and Cellular networks.
+caches and virtual memory.
+- Use network sniffing tools to characterize the impact of physical
+- Understand CPU pipelines, focusing on throughput and instruction environments on wireless signal propagation.
+scheduling.
+- Use a network simulator to evaluate the performance of routing
+- Understand the techniques for speculative execution and branch protocols for wireless ad-hoc networks.
+prediction.
+- Analyze WiFi's MAC layer protocol in different scenarios using a
+- Understand the GPU architecture. network simulator.
+- Review recent wireless networking research.
+CSCI565. DISTRIBUTED SYSTEMS. 3.0 Semester Hrs.
+This course discusses concepts, techniques, and issues in developing
+CSCI573. ROBOT PROGRAMMING AND PERCEPTION. 3.0 Semester
+distributed systems in large scale networked environment. Topics include
+Hrs.
+theory and systems level issues in the design and implementation of
+Equivalent with CSCI473,
+distributed systems.
+In this class students will learn the basics of integrated robot system
+Course Learning Outcomes
+programming and the design and use of algorithms for robot perception.
+Students will learn how to use the ROS robot middleware for the
+- Analyze complexity of distributed algorithms.
+design of robot systems for perceiving and navigating the world;
+- Prove correctness of distributed algorithms.
+develop reinforcement learning based models for perception-informed
+- Implement virtual clocks. autonomous navigation; and develop computational models for 3D robot
+- Implement and evaluate distributed minimum spanning tree perception and perceptual representation of human data.
+algorithms. Course Learning Outcomes
+- Implement distributed mutual exclusion algorithms.
+- 1. Explain the basic concepts in human-centered robotics
+- Compare and contrast distributed leader election algorithms.
+- 2. Model and analyze human behaviors for human-robot interaction
+- Implement different data-centric and client-centric consistency
+applications
+models.
+- 3. Recognize the cutting-edge human-centered robotics reasearch
+- Review recent distributed systems research.
+and applications
+CSCI568. DATA MINING. 3.0 Semester Hrs. - 4. Apply the learned knowledge to other fields
+This course is an introductory course in data mining. It covers
+CSCI574. THEORY OF CRYPTOGRAPHY. 3.0 Semester Hrs.
+fundamentals of data mining theories and techniques. We will discuss
+Equivalent with MATH574,
+association rule mining and its applications, overview of classification
+(I) Students will draw upon current research results to design, implement
+and clustering, data preprocessing, and several application specific data
+and analyze their own computer security or other related cryptography
+mining tasks. We will also discuss practical data mining using a data
+projects. The requisite mathematical background, including relevant
+mining software. Project assignments include implementation of existing
+aspects of number theory and mathematical statistics, will be covered
+data mining algorithms, data mining with or without data mining software,
+in lecture. Students will be expected to review current literature from
+and study of data mining related research issues. 3 hours lecture; 3
+prominent researchers in cryptography and to present their findings
+semester hours.
+to the class. Particular focus will be given to the application of various
+CSCI571. ARTIFICIAL INTELLIGENCE. 3.0 Semester Hrs. techniques to real-life situations. The course will also cover the following
+Artificial Intelligence (AI) is the subfield of computer science that studies aspects of cryptography: symmetric and asymmetric encryption,
+how to automate tasks for which people currently exhibit superior computational number theory, quantum encryption, RSA and discrete log
+performance over computers. Historically, AI has studied problems such systems, SHA, steganography, chaotic and pseudo-random sequences,
+as machine learning, language understanding, game playing, planning, message authentication, digital signatures, key distribution and key
+robotics, and machine vision. AI techniques include those for uncertainty management, and block ciphers. Prerequisite: CSCI262. 3 hours lecture,
+management, automated theorem proving, heuristic search, neural 3 semester hours.
+networks, and simulation of expert performance in specialized domains Course Learning Outcomes
+like medical diagnosis. This course provides an overview of the field of
+Artificial Intelligence. Particular attention will be paid to learning the LISP - Explain the basic terms and concepts in cryptography.
+language for AI programming. Prerequisite: CSCI262. - Correlate number theory with cryptography.
+CSCI572. COMPUTER NETWORKS II. 3.0 Semester Hrs. - Analyze the limitations of classical cryptographic algorithms.
+This course explores how computer networking is evolving to support - Compare the similarities and differences between symmetric and
+new environments, and challenges in building networked systems that asymmetric encryption algorithms.
+are simultaneously highly robust, efficient, flexible, and secure. Detailed
+
+- Assess the security strength of cryptographic techniques. - Demonstrate clear communication of deep learning results and
+- Choose appropriate cryptographic techniques such as hashing, insights to both technical and non-technical audiences.
+message authentication, and digital signature for addressing real-
+world security and privacy problems. CSCI577. ADVANCED ELEMENTS OF GAMES AND GAME
+DEVELOPMENT. 3.0 Semester Hrs.
+- Critique research work in applied cryptography.
+This course provides an overview of computer and video game
+development along with practical game projects designed to introduce
+CSCI575. ADVANCED MACHINE LEARNING. 3.0 Semester Hrs.
+the student to the computer entertainment industry. Topics will include
+Machine learning is the study of computer algorithms that improve
+the nature of games, the game player, game play, game design, game
+automatically through experience. Machine learning systems do not
+mechanics, story and character, game worlds, interface and the game
+have to be programmed by humans to solve a problem; instead, they
+development process. Students will be required to develop code in
+essentially program themselves based on examples of how they should
+existing game engines (GameMaker, Unity, and Unreal). Students will
+behave, or based on trial and error experience trying to solve the
+also work on a game engine from scratch, using a hybrid software design
+problem. This course aims at provide students with an understanding
+pattern that is an object-oriented hierarchy with components. The majority
+of the capabilities of machine learning (especially for deep learning
+of the course will be dedicated to a semester-long game project where
+due to its state-of-the-art performance for predicting and understanding
+students will create a complete game with a teammate using Agile
+data), and the knowledge to formulate the real-world problem to solve it
+principles, a backlog, a design document, demos, and a final product with
+effectively by a combination of computational idea motivations, learning
+commercial video. Prerequisite: CSCI 306.
+theories, mathematical and optimization backgrounds/tools. Prerequisite:
+Course Learning Outcomes
+CSCI470.
+Course Learning Outcomes
+CSCI578. BIOINFORMATICS. 3.0 Semester Hrs.
+This course contains 4 main modules organized around different data
+- Understand the different types of machine learning and some popular
+types produced by biotechnological assays, i.e., DNA/protein sequences,
+methods in each.
+protein structures, gene activity levels, relationships between biological
+- Be able to use machine learning methods in real-world applications.
+entities. Students will have a chance to interact with different public
+- Be able to determine applicable machine learning techniques for datasets and experiment with different tools and platforms with hands-on
+different datasets. exercises. The main objective of the course is to provide the student with
+- Understand how to use machine learning to learn features from high a solid foundation for conducting further research in bioinformatics. By
+dimensional or complex data. the end of the course, the students will have learned: the bioinformatics
+- Understand the ethical implications of machine learning models. terminology, main bioinformatics problems, and the key computational
+methods and tools used in bioinformatics. Prerequisites: Prior experience
+CSCI576. DEEP LEARNING. 3.0 Semester Hrs. with introductory programming concepts.
+Machine Learning is a key component of Artificial Intelligence that Course Learning Outcomes
+allows computers to generate accurate outcomes without being explicitly
+programmed. Over the past decade, machine learning has powered - Construct a systems level abstraction of the dynamics of a cell
+speech recognition, augmented reality, self-driving vehicles, and by relating components of the cell such as genes, proteins, and
+biometric authentications. The purpose of this course is to bridge general metabolic reactions
+machine learning concepts to real world applications. This course - Design and implement algorithms for solving pairwise, multiple
+provides a broad introduction to machine learning (supervised learning, sequence alignments, and search sequence databases using
+unsupervised learning, feature learning), deep learning, computer vision, sequences from NCBI GenBank or Uniprot
+natural language processing, and reinforcement learning. During the - Design and implement algorithms for constructing phylogenetic trees
+course, students will design a project that applies concepts from class for a set of biological sequences and apply them on real datasets on
+to several diGerent real-world problems and challenges and create sequence families, such as SARS-CoV-2 variants
+applications to solve them. Prerequisite: CSCI470. - Apply existing tools to predict protein structures from sequence and
+Course Learning Outcomes compare multiple protein structures using sequences from Uniprot
+and structures from the Protein Data Bank
+- Design deep learning models to address supervised and
+unsupervised learning tasks implemented in Python that meet - Interpret and analyze transcriptome data such as microarray data or
+evaluation criteria such as accuracy, F1 score, and mean-square RNA-Seq data by to reveal clusters of genes/samples and identify
+error. differentially expressed genes
+- Apply state-of-the-art deep learning architectures for computer vision - Design and implement algorithms for analyzing biological networks
+tasks involving object detection, image generation, and self-driving such as protein-protein interaction networks, gene-regulatory
+vehicles. networks, and metabolic networks
+- Develop deep learning models for natural language processing tasks
+CSCI580. ADVANCED HIGH PERFORMANCE COMPUTING. 3.0
+using pre-trained transformers.
+Semester Hrs.
+- Utilize Markov Decision Process, Monte Carlo Method, and deep This course provides students with knowledge of the fundamental
+reinforcement learning techniques to solve sequential decision- concepts of high performance computing as well as hands-on experience
+making problems. with the core technology in the field. The objective of this class is
+- Evaluate ethical challenges in deep learning models, including bias, to understand how to achieve high performance on a wide range of
+fairness, transparency, and interpretability. computational platforms. Topics will include sequential computers
+including memory hierarchies, shared memory computers and multicore,
+distributed memory computers, graphical processing units (GPUs), cloud
+
+12 Computer Science
+and grid computing, threads, OpenMP, message passing (MPI), CUDA understand how they are programmed, and comprehend their role
+(for GPUs), parallel file systems, and scientific applications. 3 hours and importance in modern computing.
+lecture; 3 semester hours. - Improve critical thinking and analysis abilities on accelerated
+Course Learning Outcomes computing research and practice technical presentation of concepts
+and papers in both spoken and written forms.
+- Develop skills to design, implement, and debug parallel programs
+- Measure and analyze performance of the state-of-the-art system-on-
+using frameworks like MPI and OpenMP.
+chips for autonomous and mobile computing using industry-standard
+- Learn to analyze and optimize computational performance on multi-
+parallel-programming languages, paradigms, and APIs.
+core and distributed systems.
+- Understand and apply algorithms that efficiently scale across high- CSCI583. IOT SECURITY AND PRIVACY. 3.0 Semester Hrs.
+performance computing architectures. The use of IoT (Internet-of-Things) devices in U.S. homes is becoming
+- Gain familiarity with HPC tools, libraries, and systems to solve increasingly popular. These smart devices, however, come with a range
+complex computational problems effectively. of security and privacy risks that need to be addressed. This course
+focuses on teaching the basics and advanced concepts of IoT security
+CSCI581. QUANTUM PROGRAMMING. 3.0 Semester Hrs. and privacy from a data-driven perspective. It covers topics such as
+This course serves as an introduction to programming quantum networking and Internet security, as well as security research based on
+computers. Students will receive an in depth education in quantum data analysis. Students will be required to read and present academic
+algorithms and their design, and then break into teams to learn the API papers from various disciplines such as computer science, psychology,
+of a commercially available quantum computing system. They will use policy, and law. The course also includes hands-on projects that allow
+this system to write and test simple quantum algorithms, and debug their students to independently investigate real-world security and privacy
+code to improve its performance against noise and other error sources. issues of IoT devices and suggest practical solutions to fix them. Through
+Prerequisite: PHGN519. this course, students will develop a comprehensive understanding of the
+Course Learning Outcomes security and privacy challenges posed by IoT devices and learn how to
+approach these issues in a data-driven and evidence-based manner.
+- Building on the education received in Fundamentals of Quantum
+Course Learning Outcomes
+Information, students will learn:
+- 1. How to write and implement simple quantum algorithms, - Develop a comprehensive understanding of the security and privacy
+- 2. Understand mechanisms by which a quantum speedup can be challenges posed by IoT devices.
+obtained - Approach these issues in a data-driven and evidence-based manner.
+- 3. Use and execute code on an API of publicly available quantum - Read, understand, present, and critique IoT academic papers.
+hardware (e.g. IBM’s qiskit, Rigetti’s Forest, Google’s forthcoming - Analyze, formulate and address IoT security and privacy research
+Cirq, and many more) problems.
+- 4. “Debug” their code to improve its performance given the realities of - Master cutting-edge IoT data analysis techniques using AI models
+noise and gate error (e.g., generative and embedded AI).
+CSCI582. COMPUTING BEYOND CPU'S. 3.0 Semester Hrs. CSCI584. CYBER THREAT INTELLIGENCE: UNDERSTANDING THE
+CPUs are no longer fast enough to execute demanding tasks in emerging ADVERSARY AND THE DEFENDER. 3.0 Semester Hrs.
+domains such as artificial intelligence, robotics and mobile computing. Cyber threats have a pervasive impact on governments, corporations,
+Most modern systems come with specialized, i.e., “beyond the CPU”, and everyday life, from cybercriminal theft of billions of dollars to terrorist
+processing units such as GPUs, neural network processors, and use of online networks for recruitment and propaganda. This course
+other domain-specific accelerators. This class will provide students introduces students to cyber threat intelligence (CTI) as a discipline that
+with knowledge and hands-on experience with accelerators. We supports decision#making by analyzing adversaries, campaigns, and
+will dig deep into the world of specialized computing and: (a) teach system vulnerabilities. Students explore intelligence collection, analysis,
+students the fundamental computer architecture concepts that lead operations, and failures across both public and private sectors, with
+to the development of accelerators, (b) let the students know about a focus on U.S. intelligence while incorporating global perspectives.
+modern accelerators, their internal architectures, and how to program Through case studies, hands#on exercises, and simulations, learners
+them to solve many prevalent computational problems in an energy examine advanced persistent threat (APT) groups, cybercriminal
+and performance efficient way, and (c) provide students a hands-on networks, and non#state actors to understand their tactics, techniques,
+experience by implementing and running benchmarks on an accelerator and procedures (TTPs), successes, and shortcomings. Students produce
+of their choice and perform a detailed performance analysis. The course professional deliverables, including policy memos, attack surface
+assignments will include weekly paper reading, mini programming assessments, and detailed adversary profiles, which are presented in
+assignments, paper presentations (one or two times in the semester) and class. Additional activities include daily current#event presentations
+a semester project that will be carried out on an accelerator of student’s and collaborative group work representing CTI teams. By the end of the
+choice. The students will be given access to a diverse range of modern course, students will be able to define intelligence and its disciplines,
+heterogeneous processing units that are designed to accelerate mobile, explain cyber adversary operations, analyze attacks and campaigns,
+cloud and autonomous workloads. Prerequisite: CSCI 341. apply intelligence analysis principles, assess intelligence limitations,
+Course Learning Outcomes create professional CTI deliverables, and identify career opportunities
+in cybersecurity. Weekly readings and active participation are essential
+- Explore the principal design concepts of domain-specific
+to connect course concepts to real#world cyber defense. Prerequisite:
+accelerators, contrast them to traditional CPU architectures,
+None; please note, this is not a programming-focused course; as such,
+this course is appropriate for both CS and non-CS graduate students.
+
+Course Learning Outcomes - 3. Students will be able to analyze and evaluate research articles in
+Cyber Physical Systems security and privacy protection.
+- Define intelligence, describe the intelligence cycle, and identify the
+- 4. Students will be able to design usable solutions for addressing
+various intelligence disciplines.
+security and privacy problems in representative Cyber Physical
+- Explain how Advanced Persistent Threat (APT) groups and non-state Systems.
+actors operate in cyberspace.
+- Analyze cyber attacks and recognize key historical campaigns. CSCI588. INTRODUCTION TO HUMAN FACTORS IN SECURITY AND
+- Apply principles of intelligence analysis and understand the PRIVACY. 3.0 Semester Hrs.
+psychology behind analytical decision-making. As Bruce Schneier remarks, "the more secure you make something, the
+less secure it becomes," meaning that we cannot rely on purely technical
+- Evaluate the limitations and challenges inherent in intelligence
+solutions for security. We also need to consider the “human factors” that
+collection and interpretation.
+affect the security of our systems. Human factors that affect security
+- Write a policy memo and develop a detailed actor or group profile,
+might be how everyday users decide which security advice to (not) follow,
+and effectively present the profile in a 30-minute verbal briefing to the
+why developers still introduce vulnerabilities into their code, and how
+class.
+security needs may differ for specialized populations. This course is
+- Identify career paths in cybersecurity and demonstrate strategies for centered around understanding the human factors that affect security and
+professional networking within the field. privacy. We will discuss research focusing on a variety of important topics
+at the intersection of human factors and computer security and privacy
+CSCI585. INFORMATION SECURITY PRIVACY. 3.0 Semester Hrs.
+and build skills to evaluate and conduct research in this field. The course
+This course provides an introduction to the principles and best practices
+is suitable for students interested in learning about security and privacy
+in information security and privacy. Lectures will include basic concepts of
+and human factors.
+information security and privacy, fundamental security design principles,
+Course Learning Outcomes
+major topics in security and privacy, essential knowledge and skills,
+risk assessment and mitigation, policy development, and so on. In the - Read, identify, and discuss important topics in human factors in
+classroom, students will also present and discuss a list of recent or security and privacy.
+classic research papers corresponding to the major topics in security - Design and conduct empirical research in human factors in security
+and privacy. Outside of the classroom, students will work on homework and privacy.
+assignments, security lab exercises, quizzes, research paper summaries,
+- Critically evaluate research in human factors in security and privacy.
+and a course project. Prerequisite: (CSCI262 or CSCI220) and CSCI341.
+- Think critically about the human impact of security and privacy.
+Course Learning Outcomes
+- Explain the fundamental security and privacy protection principles, CSCI597. SUMMER PROGRAMS. 0-6 Semester Hr.
+techniques, and practices. CSCI598. SPECIAL TOPICS. 0-6 Semester Hr.
+- Describe risk mitigation, legal requirements, and ethical (I, II, S) Pilot course or special topics course. Topics chosen from special
+considerations in cybersecurity. interests of instructor(s) and student(s). Usually the course is offered only
+- Analyze real-world security and privacy problems in modern once, but no more than twice for the same course content. Prerequisite:
+computing environments. none. Variable credit: 0 to 6 credit hours. Repeatable for credit under
+different titles.
+- Practice security and privacy protection tools and techniques.
+- Critique existing security and privacy protection techniques or CSCI598. SPECIAL TOPICS. 0-6 Semester Hr.
+studies. CSCI598. SPECIAL TOPICS. 0-6 Semester Hr.
+CSCI598. SPECIAL TOPICS. 0-6 Semester Hr.
+CSCI587. CYBER PHYSICAL SYSTEMS SECURITY. 3.0 Semester
+Hrs. CSCI598. SPECIAL TOPICS. 0-6 Semester Hr.
+(II) This course aims to build a solid foundation for students to identify,
+CSCI598. SPECIAL TOPICS. 1-6 Semester Hr.
+analyze, and evaluate real-world security and privacy problems in Cyber
+Physical Systems, as well as to design and develop secure and usable CSCI598. SPECIAL TOPICS. 1-6 Semester Hr.
+solutions for addressing these problems. It focuses on the important CSCI598. SPECIAL TOPICS. 1-6 Semester Hr.
+security and privacy research topics in representative Cyber Physical
+CSCI598. SPECIAL TOPICS. 0-6 Semester Hr.
+Systems such as wireless sensor networks, smart grids, autonomous
+automotive systems, and robotic systems. It also includes the discussion CSCI598. SPECIAL TOPICS. 0.5-6 Semester Hr.
+of the protection of the nation's critical infrastructures such as Food, CSCI598. SPECIAL TOPICS. 0.5-6 Semester Hr.
+Health, Water, Energy, Finance, Communication, Manufacturing,
+CSCI598. SPECIAL TOPICS. 0.5-6 Semester Hr.
+Government, and Transportation. The format of the course includes
+introductory discussions, research paper reading, summaries, and CSCI599. INDEPENDENT STUDY. 0.5-6 Semester Hr.
+discussions, as well as research projects. 3 hours lecture; 3 semester (I, II, S) Individual research or special problem projects supervised by a
+hours. faculty member, also, when a student and instructor agree on a subject
+Course Learning Outcomes matter, content, and credit hours. Prerequisite: “Independent Study” form
+must be completed and submitted to the Registrar. Variable credit: 0.5
+- 1. Students will be able to explain the essential security and privacy to 6 credit hours. Repeatable for credit under different topics/experience
+protection requirements in representative Cyber Physical Systems. and maximums vary by department. Contact the Department for credit
+- 2. Students will be able to analyze security and privacy problems in limits toward the degree.
+representative Cyber Physical Systems.
+
+14 Computer Science
+CSCI599. INDEPENDENT STUDY. 0.5-6 Semester Hr. Associate Professors
+CSCI599. INDEPENDENT STUDY. 0.5-6 Semester Hr. Mehmet Belviranli
+CSCI599. INDEPENDENT STUDY. 0.5-6 Semester Hr.
+Hua Wang
+CSCI599. INDEPENDENT STUDY. 0.5-6 Semester Hr.
+Bo Wu
+CSCI599. INDEPENDENT STUDY. 0.5-6 Semester Hr.
+CSCI599. INDEPENDENT STUDY. 0.5-6 Semester Hr. Thomas Williams
+CSCI599. INDEPENDENT STUDY. 0.5-6 Semester Hr.
+Dejun Yang
+CSCI599. INDEPENDENT STUDY. 0.5-6 Semester Hr.
+Chuan Yue
+CSCI599. INDEPENDENT STUDY. 0.5-6 Semester Hr.
+Assistant Professors
+CSCI599. INDEPENDENT STUDY. 0.5-6 Semester Hr.
+CSCI599. INDEPENDENT STUDY. 0.5-6 Semester Hr. Dong Chen
+CSCI599. INDEPENDENT STUDY. 0.5-6 Semester Hr.
+Neil Dantam
+CSCI599. INDEPENDENT STUDY. 0.5-6 Semester Hr.
+Gabriel Fierro
+CSCI599. INDEPENDENT STUDY. 0.5-6 Semester Hr.
+CSCI599. INDEPENDENT STUDY. 0.5-6 Semester Hr. C. Estelle Smith
+CSCI691. GRADUATE SEMINAR. 1.0 Semester Hr. Teaching Professors
+Presentation of latest research results by guest lecturers, staff, and
+advanced students. Prerequisite: none. 1 hour seminar; 1 semester hour. Tolga Can
+Repeatable for credit to a maximum of 12 hours.
+Vibhuti Dave
+CSCI698. SPECIAL TOPICS. 0-6 Semester Hr.
+(I, II, S) Pilot course or special topics course. Topics chosen from special Jeffrey Paone
+interests of instructor(s) and student(s). Usually the course is offered only
+Christopher Painter-Wakefield
+once, but no more than twice for the same course content. Prerequisite:
+none. Variable credit: 0 to 6 credit hours. Repeatable for credit under Teaching Associate Professors
+different titles.
+Wendy Fisher, Assistant Department Head
+CSCI699. INDEPENDENT STUDY. 0.5-6 Semester Hr.
+(I, II, S) Individual research or special problem projects supervised by a Kathleen Kelly
+faculty member, also, when a student and instructor agree on a subject
+matter, content, and credit hours. Prerequisite: “Independent Study” form Robert Thompson
+must be completed and submitted to the Registrar. Variable credit: 0.5
+Teaching Assistant Professors
+to 6 credit hours. Repeatable for credit under different topics/experience
+and maximums vary by department. Contact the Department for credit
+Amelia Read
+limits toward the degree.
+CSCI700. MASTERS PROJECT CREDITS. 1-6 Semester Hr. Zibo Wang
+(I, II, S) Project credit hours required for completion of the non-thesis
+Professors of Practice
+Master of Science degree in Computer Science (Project Option). Project
+under the direct supervision of a faculty advisor. Credit is not transferable Mark Baldwin
+to any 400, 500, or 600 level courses. Repeatable for credit.
+Phil Romig
+CSCI707. GRADUATE THESIS / DISSERTATION RESEARCH CREDIT.
+1-15 Semester Hr. Visiting Teaching Associate Professor
+(I, II, S) GRADUATE THESIS/DISSERTATION RESEARCH CREDIT
+Research credit hours required for completion of a Masters-level thesis Keith Hellman
+or Doctoral dissertation. Research must be carried out under the direct
+Emeriti Professors
+supervision of the student's faculty advisor. Variable class and semester
+hours. Repeatable for credit. Tracy Camp , Emeritus Professor
+Professor and Department Head William Hoff, Emeritus Associate Professor
+Iris Bahar Cyndi Rader, Emeritus Teaching Professor
+Professors
+Qi Han
+Dinesh Mehta

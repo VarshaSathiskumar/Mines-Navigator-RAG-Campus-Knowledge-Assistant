@@ -1,0 +1,482 @@
+SOURCE: documents/robotics.pdf
+============================================================
+
+Robotics 1
+Robotics prepare candidates for industry careers in robotics. The thesis MS and
+PhD degrees are designed to prepare students for research careers.
+Combined Program: The Robotics program also offers combined BS+MS
+Degrees Offered
+degrees. These degrees offer an expedited graduate school application
+• Graduate certificate in Robotics process and allow students to begin graduate coursework while still
+finishing their undergraduate degree requirements.
+• Master of Science in Robotics (non-thesis)
+• Master of Science in Robotics (thesis) Admissions and Program Policies
+• Doctor of Philosophy in Robotics
+Mines' Combined Undergraduate/Graduate
+Program Description
+Degree Program
+The Robotics program offers a graduate certificate and the degrees of
+Students enrolled in Mines’ combined undergraduate/graduate program
+Master of Science and Doctor of Philosophy in Robotics. The graduate
+may double count up to 6 credits of graduate coursework to fulfill
+certificate is intended for working professionals. The non-thesis MS
+requirements of both their undergraduate and graduate degree programs.
+is designed to prepare candidates for industry careers in robotics.
+These courses must have been passed with B- or better, not be
+The thesis MS and PhD degrees are designed to prepare students for
+substitutes for required coursework, and meet all other university,
+research careers.
+department, and program requirements for graduate credit.
+Primary Contact
+Students are advised to consult with their undergraduate and graduate
+Robotics Program advisors for appropriate courses to double count upon admission to the
+https://robotics.mines.edu/ combined program.
+Program Director MS and PhD
+Xiaoli Zhang The minimum requirements for admission to the MS and PhD degrees in
+Robotics are:
+Professors
+• Applicants must have a Bachelor’s degree, or equivalent, from an
+Qi Han accredited institution with a grade-point average of 3.0 or better on a 4.0
+scale prior to matriculating into the Robotics degree program.
+Kathryn Johnson
+• Students are expected to have completed the following coursework:
+Tyrone Vincent
+1) two semesters of calculus, 2) differential equations, and 3) data
+Xiaoli Zhang structures. The Robotics graduate admissions committee may require
+that students who do not meet this expectation demonstrate competency
+Associate Professors or take remedial coursework. Such coursework may not count toward
+the graduate degree. The committee will decide whether to recommend
+Hao Zhang
+regular or provisional admission.
+Assistant Professors
+• Graduate Record Examination (Quantitative section) score of 151 or
+Micah Corah higher (or 650 on the old scale). Applicants who have graduated with a
+computer science, engineering, or math degree from Mines within the
+Neil Dantam past five years are not required to submit GRE scores.
+Kaveh Fathian • Applicants who are not U.S. citizens or permanent residents and whose
+native language is not English, must prove English proficiency as part of
+George Kontoudis the application process. Refer to the Graduate Admissions website for
+more details.
+Yangming Shi
+• For the PhD program, prior research experience is desired but not
+Thomas Williams
+required.
+Qin Zhu
+Transfer Credit
+Frankie Zhu
+Graduate-level courses taken at other universities for which a grade
+Professor Emeritus equivalent to a B or better was received will be considered for transfer
+credit with approval of the advisor and/or thesis committee, and home
+Kevin Moore department head, as appropriate. Transfer credits must not have been
+used as credit toward a bachelor's degree. For the MS degree, no more
+The Robotics program offers graduate certificate, Master of Science and
+than nine credits may transfer. For the PhD degree, up to 24 credits
+Doctor of Philosophy degrees in Robotics. The graduate certificate is
+of courses may be transferred. In lieu of transfer credit for individual
+intended for working professionals. The non-thesis MS is designed to
+courses, students who enter the PhD program with a thesis-based
+
+2 Robotics
+master’s degree from another institution may transfer up to 36 credits in At the conclusion of the MS thesis, the student must make a formal
+recognition of the course work and research completed for that degree. presentation and defense of their thesis research. A student must
+pass this defense to earn an MS degree.
+Advisor and Thesis Committees
+Robotics Core Four courses, one from each focus area's core 12.0
+Students must have an advisor from the Robotics faculty to direct and
+(Breadth) course list
+monitor their academic plan, research, and independent studies. Advisors
+Robotics Two courses from robotics course list 6.0
+must be full-time permanent members of the faculty. In this context, full-
+Electives (Depth)
+time permanent members of the faculty are those that hold the rank of
+professor, associate professor, assistant professor, research professor, Technical One course in any participating robotics 3.0
+associate research professor or assistant research professor. Upon Electives department (CSCI, EDNS, EENG, MATH, MEGN)
+approval by the graduate dean, adjunct faculty, teaching faculty, visiting ROBO707 GRADUATE THESIS / DISSERTATION 9.0
+professors, emeritus professors and off-campus representatives may be RESEARCH CREDIT
+designated additional co-advisors. A list of Robotics faculty by rank is
+Total Semester Hrs 30.0
+available in the faculty tab of the catalog.
+PhD Degree
+The department of the advisor is the student’s home department.
+The Robotics PhD requires 36 credits of coursework plus 36 research
+Master of Science (thesis option) students in Robotics must have at least
+credits. The table below summarizes the coursework requirements. PhD
+three members on their thesis committee. In addition to the institutional
+students must additionally complete a qualifying examination, a thesis
+requirements, at least one committee member who is not the advisor
+proposal, and a thesis defense.
+must be Robotics faculty.
+Robotics Core Four courses, one from each focus area's core 12.0
+Robotics PhD thesis committees must have at least four members. In
+(Breadth) course list
+addition to the institutional requirements, at least one committee member
+Robotics Four Courses from robotics course list 12.0
+who is not the advisor must be Robotics faculty.
+Electives (Depth)
+Program Requirements Technical Four courses in any participating robotics 12.0
+Electives department (CSCI, EDNS, EENG, MATH, MEGN)
+Graduate Certificate
+ROBO707 GRADUATE THESIS / DISSERTATION 36.0
+The graduate certificate will require 12 credits of coursework. The table RESEARCH CREDIT
+below summarizes the requirements for the graduate certificate. Total Semester Hrs 72.0
+Robotics Core Four courses, one from each focus area's core 12.0 Robotics PhD Qualifying Examination
+course list
+The Robotics PhD Qualifying Examination will test a student’s ability
+Total Semester Hrs 12.0
+to conduct research in their chosen area. The qualifier will have two
+components: a coursework component and a research component.
+MS Degrees
+Coursework Qualifier: To satisfy the coursework component of
+The MS degrees will require 30 credits, with thesis research options
+the qualifier, the student must complete their four selected Robotics
+substituting for electives.
+core courses with a minimum grade of B in each class.
+MS Non-Thesis (MS-NT)
+Research Qualifier: The research qualifier consists of a
+Students must take 30 credits of coursework to complete the research project. Robotics PhD students must take the qualifying
+degree. The table below summarizes the requirements for the MS- examination by the end of their fourth semester (typically by the
+NT degree. end of their second year). The examination will be evaluated by a
+committee consisting of at least the student’s advisor, a Robotics-
+Robotics Core Four courses, one from each focus area's core 12.0 affiliated faculty member, and one additional faculty member.
+(Breadth) course list
+Robotics Two courses from robotics course list 6.0 For the qualifier, the student will conduct a literature review of
+Electives (Depth) 30-40 papers and perform a research project approaching the level
+necessary for a conference publication. The research project must
+Technical Four courses in any participating robotics 12.0
+be approved by the advisor and committee and will likely be some
+Electives department (CSCI, EDNS, EENG, MATH, MEGN)
+combination of the following:
+Total Semester Hrs 30.0
+• Design, analyze and/or simulate a novel robot system,
+MS Thesis
+• Design and evaluate new algorithms or systems for an
+Students must take 21 credits of coursework and 9 credits of important research problem,
+MS thesis research to complete the degree. The table below
+summarizes the requirements for the MS Thesis degree. • Develop a new research software system,
+• Solve a set of theoretical problems.
+
+Robotics 3
+The deliverables will be a literature review (3-4 pages, IEEE style ROBO533 PLANNING FOR SENSING, PERCEPTION, AND 3.0
+[4]), a research report (4-5 pages, IEEE style), and a research COVERAGE
+presentation (30 minutes to present, plus questions) delivered to ROBO534 ROBOT PLANNING AND MANIPULATION 3.0
+the committee.
+ROBO535 ADVANCED MACHINE LEARNING 3.0
+At the conclusion of the qualifier presentation, each committee
+Elective Courses - None.
+member will vote their evaluation as one of “Strong Support,” “Weak
+Support,” or “Do not support.” The student must receive at least two Action
+“Strong Support” votes to pass. In the case the student does not
+pass, the committee may decide to offer a “conditional pass” based Core Courses
+on extra conditions, such as revisions to the report or additional
+experiments, the student must perform to pass the qualifier. The ROBO554 ROBOT MECHANICS: KINEMATICS,
+committee will set an explicit deadline for student to complete the DYNAMICS, AND CONTROL
+extra conditions. If the student does not meet the extra conditions ROBO550 MECHATRONICS 3.0
+as determined by the committee by the deadline, the “conditional ROBO565 ADVANCED ROBOT CONTROL 3.0
+pass” becomes a “fail.” If the student does not pass the qualifier
+ROBO567 THEORY AND DESIGN OF ADVANCED 3.0
+on their first attempt (inclusive of a conditional pass), they may
+CONTROL SYSTEMS
+make one additional attempt to pass; the same conditional pass
+procedure may also be applied to the second attempt. A student Elective Courses
+who fails the qualifier on the second attempt may not continue in
+the program. EENG515 MATHEMATICAL METHODS FOR SIGNALS AND3.0
+SYSTEMS
+Robotics PhD Proposal and Defense
+ROBO566 MODERN CONTROL DESIGN 3.0
+After passing the qualifying examination, the student must prepare a
+Interaction & Society
+written thesis proposal and present it formally to the student’s thesis
+committee and other interested faculty. Typically, the proposal will take
+Core Courses
+place within 24 months of the student completing the qualifier.
+ROBO572 ROBOT ETHICS 3.0
+The committee for the thesis proposal and defense will follow institutional
+ROBO576 HUMAN-ROBOT INTERACTION 3.0
+requirements. Additionally, at least one committee member who is not the
+advisor must be robotics-affiliated faculty.
+Elective Courses
+At the conclusion of the student’s PhD program, the student must make a
+CSCI5XX LINGUISTIC HUMAN-ROBOT INTERACTION 3.0
+formal presentation and defense of their thesis research. A student must
+“pass” this defense to earn a PhD degree. Typically, the defense will take
+Additional Robotics Electives
+place within 24 months of the student completing the thesis proposal.
+CSCI561 THEORY OF COMPUTATION 3.0
+Robotics Course List
+CSCI562 APPLIED ALGORITHMS AND DATA 3.0
+The Robotics courses are divided into four focus areas. Each focus area STRUCTURES
+is comprised of core courses and electives, as detailed below. Beyond CSCI565 DISTRIBUTED SYSTEMS 3.0
+the courses in these four focus areas, there is also a list of additional
+CSCI572 COMPUTER NETWORKS II 3.0
+Robotics electives.
+EENG511 CONVEX OPTIMIZATION AND ITS 3.0
+Perception ENGINEERING APPLICATIONS
+EENG521 NUMERICAL OPTIMIZATION 3.0
+Core Courses
+MEGN586 LINEAR OPTIMIZATION 3.0
+ROBO513 ROBOT PROGRAMMING AND PERCEPTION 3.0 MEGN587 NONLINEAR OPTIMIZATION 3.0
+ROBO517 INTRODUCTION TO COMPUTER VISION 3.0 MEGN588 INTEGER OPTIMIZATION 3.0
+ROBO529 ESTIMATION THEORY AND KALMAN 3.0 MEGN686 ADVANCED LINEAR OPTIMIZATION
+FILTERING MEGN688 ADVANCED INTEGER OPTIMIZATION 3.0
+ROBO537 ROBOTIC MAPPING AND LOCALIZATION 3.0 ROBO509 SPACE ROBOTICS 3.0
+Elective Courses ROBO509. SPACE ROBOTICS. 3.0 Semester Hrs.
+This online course introduces students to the design, analysis, and
+CSCI508 ADVANCED TOPICS IN PERCEPTION AND 3.0 operation of robotic spaceflight missions. By integrating space exploration
+COMPUTER VISION with robotics, students will explore planetary science questions, develop
+mission plans, and evaluate the technologies required to achieve
+Cognition
+mission objectives. Topics include sensor systems, automation trade-
+offs, and rover mobility. The course prepares students for careers in
+Core Courses
+aerospace and robotics by providing essential technical, analytical,
+and organizational skills to solve complex challenges in these fields.
+
+4 Robotics
+Prerequisites: SPRS501; Desired, some background in either aerospace • 3. Be able to use software tools to implement computer vision
+engineering, mechanical engineering, electrical engineering, computer algorithms
+science, or planetary science. • 4. Communicate (in oral and written form) methods and results to a
+Course Learning Outcomes technical audience
+• Evaluate state of the art planetary science questions and technology
+ROBO529. ESTIMATION THEORY AND KALMAN FILTERING. 3.0
+goals from authoritative space exploration roadmaps to inform the
+Semester Hrs.
+development of new robotic missions.
+Estimation theory considers the extraction of useful information from
+• Analyze the progression of spaceflight technologies, focusing on raw sensor measurements in the presence of signal uncertainty.
+the advances in rover mobility and sensing capabilities for planetary Common applications include navigation, localization and mapping, but
+surface exploration. applications can be found in all fields where measurements are used.
+• Design an extraplanetary surface robotic mission with a science or Mathematic descriptions of random signals and the response of linear
+technology goal derived from roadmaps. systems are presented. The discrete-time Kalman Filter is introduced,
+• Assess the data signals from sensors necessary to produce the end and conditions for optimality are described. Implementation issues,
+data product, which is informed by the science or technology goal. performance prediction, and filter divergence are discussed. Adaptive
+estimation and nonlinear estimation are also covered. Contemporary
+• Plan the mission operations and robot actuators necessary to achieve
+applications will be utilized throughout the course. Offered Spring
+mission objectives.
+semester of odd years. 1.5 hours lecture; 1.5 hours other; 3 semester
+• Differentiate operations between robot automation and human
+hours.
+teleoperation along the metrics of risk, SWaP, complexity, and
+Course Learning Outcomes
+timeline.
+• Develop a perception framework and path planning strategy informed • Use Bayes' rule to calculate a statistical inference. Given a
+by mission requirements and a concept of operation. description of a stochastic process, calculate the joint and conditional
+• Design basic mobility algorithms constrained by robot capabilities and probabilities for this process.
+limitations in Moon environment. • Using the appropriate algorithm, calculate the probability distribution
+function for the state of a dynamic system with stochastic inputs.
+ROBO513. ROBOT PROGRAMMING AND PERCEPTION. 3.0 • " Build a model of a dynamic system that includes a probabilistic
+Semester Hrs. description of uncertain inputs.
+In this class students will learn the basics of integrated robot system
+• Design and implement an algorithm to estimate the internal states
+programming and the design and use of algorithms for robot perception.
+of a linear system with input signals that are Gaussian stochastic
+Students will learn how to use the ROS robot middleware for the
+processes.
+design of robot systems for perceiving and navigating the world;
+• Design and implement an algorithm to estimate the internal states of
+develop reinforcement learning based models for perception-informed
+general systems with general stochastic inputs.
+autonomous navigation; and develop computational models for 3D robot
+perception and perceptual representation of human data.
+ROBO533. PLANNING FOR SENSING, PERCEPTION, AND
+Course Learning Outcomes
+COVERAGE. 3.0 Semester Hrs.
+• 1. Explain the basic concepts in human-centered robotics Identification of applications of theory. Prerequisites: Graduate
+standing; Recommended: CSCI 406 (Algorithms); CSCI 358 (Discrete
+• 2. Model and analyze human behaviors for human-robot interaction
+Mathematics).
+applications
+Course Learning Outcomes
+• 3. Recognize the cutting-edge human-centered robotics research and
+applications • Formulate relevant optimization problems.
+• 4. Apply the learned knowledge to other fields • Analyze optimization problems.
+• Prove properties of planning algorithms.
+ROBO517. INTRODUCTION TO COMPUTER VISION. 3.0 Semester
+• Design and implementation of relevant methods.
+Hrs.
+(I) Computer vision is the process of using computers to acquire images, • Research reading and communication.
+transform images, and extract symbolic descriptions from images. This • Design and solution for perception planning and sensing.
+course provides an introduction to this field, covering topics in image • Identification of applications of theory.
+formation, feature extraction, location estimation, and object recognition.
+• Communication of research works.
+Design ability and hands-on projects will be emphasized, using popular
+• Breadth of applications.
+software tools. The course will be of interest both to those who want to
+learn more about the subject and to those who just want to use computer
+ROBO534. ROBOT PLANNING AND MANIPULATION. 3.0 Semester
+imaging techniques. 3 hours lecture; 3 semester hours. Prerequisite:
+Hrs.
+Undergraduate level knowledge of linear algebra, statistics, and a
+An introduction to planning in the context of robotics covering symbolic
+programming language.
+and motion planning approaches. Symbolic computation, symbolic
+Course Learning Outcomes
+domains, and efficient algorithms for symbolic planning; Robot
+• 1. Be able to analyze and predict the behavior of image formation, kinematics, configuration spaces, and algorithms for motion planning.
+transformation, and recognition algorithms Applications of planning will focus on manipulation problems using robot
+arms.
+• 2. Be able to design, develop, and evaluate algorithms for specific
+applications
+
+Robotics 5
+Course Learning Outcomes • Learn standard benchmarking metrics used to evaluate the
+performance of SLAM systems, and implement them to critically
+• 1 - Implement algorithms for symbolic computation assess the accuracy, efficiency, and robustness of these systems.
+• 2 - Construct symbolic planning domains for new scenarios • Build a complete SLAM pipeline from scratch in a team-based
+• 3 - Implement algorithms for symbolic planning via constraint-solving project, and develop an understanding of the required real-world
+and heuristic search trade-offs between performance, runtime, and robustness.
+• 4 - Implement algorithms for sampling-based motion planning • Identify existing challenges and open problems in SLAM, and
+• 5 - Construct kinematic models of robot manipulators propose innovative research directions to advance the state of the
+• 6 - Analyze planning algorithms for key properties: correctness, field.
+completeness, optimality
+ROBO550. MECHATRONICS. 3.0 Semester Hrs.
+• 7 - Evaluate the suitability of different planning approaches and apply
+A course focusing on implementation aspects of mechatronic and control
+appropriate algorithms to new planning scenarios
+systems. Significant lab component involving embedded C programming
+• 8 - Communicate implementations, analysis, and evaluation in written on a mechatronics teaching platform, called a haptic paddle, a single
+and oral form degree-of-freedom force-feedback joystick.
+Course Learning Outcomes
+ROBO535. ADVANCED MACHINE LEARNING. 3.0 Semester Hrs.
+Machine learning is the study of computer algorithms that improve • 1. Become proficient in mechanical system modeling, system
+automatically through experience. Machine learning systems do not identification and simulations.
+have to be programmed by humans to solve a problem; instead, they • 2. Develop an understanding of how control theory is applied and
+essentially program themselves based on examples of how they should implemented in practice.
+behave, or based on trial and error experience trying to solve the
+• 3. Learn fundamentals of and how to use semiconductor devices in
+problem. This course aims at provide students with an understanding
+mechatronic systems
+of the capabilities of machine learning (especially for deep learning
+• 4. Learn the basics of sensor and actuator theory, design, and
+due to its state-of-the-art performance for predicting and understanding
+application
+data), and the knowledge to formulate the real-world problem to solve it
+effectively by a combination of computational idea motivations, learning • 5. Gain experience in embedded C programming for mechatronic
+theories, mathematical and optimization backgrounds/tools. systems
+• 6. Gain experience in research article reading and technical
+ROBO537. ROBOTIC MAPPING AND LOCALIZATION. 3.0 Semester
+presentations
+Hrs.
+This course introduces the principles and techniques of simultaneous
+ROBO554. ROBOT MECHANICS: KINEMATICS, DYNAMICS, AND
+localization and mapping (SLAM), a core capability in modern robotics.
+CONTROL. 3.0 Semester Hrs.
+Students will learn how to leverage robot sensors (including cameras
+Mathematical representation of robot structures. Mechanical analysis
+and laser scanners) to construct 3D maps of an environment and
+including kinematics, dynamics, and design of robot manipulators.
+estimate the robot’s position within it. The course covers both the front-
+Representations for trajectories and path planning for robots.
+end techniques, which process raw sensor data (e.g., camera images)
+Fundamentals of robot control including, linear, nonlinear and force
+to generate initial 3D maps and position estimates, and the back-end
+control methods. Introduction to off-line programming techniques
+techniques, which refine these outputs by filtering outliers, optimizing
+and simulation. Robotics students should register for ROBO554, not
+trajectories, and fusing local maps into a consistent global representation.
+MEGN544. 3 hours lecture; 3 semester hours. Prerequisites: EENG307
+The course includes hands-on homework and projects in which students
+and MEGN441.
+will implement SLAM algorithms and test them on real-world data
+collected by robots. Prerequisites: Familiarity with: - Linear algebra, ROBO565. ADVANCED ROBOT CONTROL. 3.0 Semester Hrs.
+calculus, probability, and statistics - Linux, Algorithms, C++, and Python - The goal of this course is to give the students an introduction to a
+Computer vision. fundamental working knowledge of the main techniques of intelligent
+Course Learning Outcomes learning-based control and their applications in robotics and autonomous
+systems. Specific topics include neural network based control, model
+• Learn foundational mathematical tools (from linear algebra, predictive control, reinforcement learning based control, fuzzy logic
+optimization, and statistics) and use them to formulate, analyze, and control, and human-in-the-loop control.
+solve different problems in robotic mapping and localization.
+ROBO566. MODERN CONTROL DESIGN. 3.0 Semester Hrs.
+• Develop a deep understanding of front-end SLAM techniques,
+Control system design with an emphasis on observer-based methods,
+including feature extraction, pinhole camera modeling, and multi-view
+from initial open-loop experiments to final implementation. The course
+geometry, to generate initial 3D maps and pose estimates.
+begins with an overview of feedback control design technique from the
+• Develop a deep understanding of back-end SLAM techniques, frequency domain perspective, including sensitivity and fundamental
+including graph optimization, outlier rejection, and loop closure, to limitations. State space realization theory is introduced, and system
+refine local maps into consistent global representations. identification methods for parameter estimation are introduced. Computer
+• Integrate state-of-the-art SLAM algorithms in Python or C++, learn based methods for control system design are presented. Prerequisites:
+how to use them in the Robot Operating System (ROS) framework, EENG307.
+and experiment with running them on real-world sensor data to build Course Learning Outcomes
+3D environment maps.
+
+6 Robotics
+• Model and analyze single-input single-output (SISO) systems using • 5 - Understand the tradeoffs underlying the design of autonomous
+both transfer function and state space realizations in continuous- and moral agents.
+discrete-time. • 6 - Conduct robot ethics research grounded in both human-subject
+• Design and test controllers for these systems. experimentation and algorithm development.
+• Explain the similarities and differences between continuous time and
+discrete time signals and systems (relating to modeling, analysis, and ROBO576. HUMAN-ROBOT INTERACTION. 3.0 Semester Hrs.
+design). Human-Robot Interaction is an interdisciplinary field at the intersection
+of Computer Science, Robotics, Psychology, and Human Factors, that
+• Model, analyse, and design feedback control systems using MATLAB
+seeks to answer a broad set of questions about robots designed to
+and Simulink in both the time and fre-quency domains.
+interact with humans (e.g., assistive robots, educational robots, and
+• Evaluate a control system design in terms of performance,
+service robots), such as: (1) How does human interaction with robots
+robustness to model uncertainty, and sensitivity to noise.
+differ from interaction with other people? (2) How does the appearance
+and behavior of a robot change how humans perceive, trust, and interact
+ROBO567. THEORY AND DESIGN OF ADVANCED CONTROL
+with that robot? And (3) How can we design and program robots that
+SYSTEMS. 3.0 Semester Hrs.
+are natural, trustworthy, and effective? Accordingly, In this course,
+This course will introduce and study the theory and design of
+students will learn (1) how to design interactive robots, (2) the algorithmic
+multivariable and nonlinear control systems. Students will learn to design
+foundations of interactive robots; and (3) how to evaluate interactive
+multivariable controllers that are both optimal and robust, using tools such
+robots. To achieve these learning objectives, students will read and
+as state space and transfer matrix models, nonlinear analysis, optimal
+present key papers from the HRI literature, complete an individual final
+estimator and controller design, and multi-loop controller synthesis.
+project tailored to their unique interests and skillsets, and complete a
+Offered Spring semester of even years. Prerequisite: EENG417.
+group project in which they will design, pilot, and evaluate novel HRI
+Course Learning Outcomes
+experiments, with in-class time expected to be split between lecture by
+• 1. define control-oriented problem statements for real-world the instructor, presentations by students, and either collaborative active
+problems, learning activities or discussions with researchers in the field Prerequisite:
+Data Structures, Probability and Statistics or equivalent.
+• 2. model, analyze, and design controllers and estimators for single-
+Course Learning Outcomes
+input, single-output (SISO) and multi-input, multi-output (MIMO)
+systems in time and frequency domains, • Understand the theoretical foundations and critical application
+• 3. design optimal and robust controllers and estimators for these domains of human-robot interaction.
+systems, • Employ design techniques to design interactive robots.
+• 4. model, analyze, and design controllers for nonlinear systems, • Design human-subject experiments to evaluate interactive robots.
+• 5. explain the connection between state-space and transfer function • Perform qualitative and quantitative analysis on the results of human-
+representations of systems and the effects on controller design and robot interaction experiments.
+analysis
+• 6. model, analyze, and design feedback control systems using ROBO598. SPECIAL TOPICS. 0-3 Semester Hr.
+MATLAB and Simulink in both the time and frequency domains, and
+ROBO599. INDEPENDENT STUDY. 0.5-6 Semester Hr.
+• 7. understand and apply basic educational and learning theories and Individual research or special problem projects supervised by a faculty
+tools that will enhance your lifelong learning. member, also, when a student and instructor agree on a subject
+matter, content, and credit hours. Variable credit: 0.5 to 6 credit hours.
+ROBO572. ROBOT ETHICS. 3.0 Semester Hrs. Repeatable for credit under different topics/experience and maximums
+(II) This course explores ethical issues arising in robotics and vary by department. Contact the Department for credit limits toward the
+human-robot interaction through philosophical analysis, scientific degree.
+experimentation, and algorithm design. Topics include case studies in
+ROBO599. INDEPENDENT STUDY. 1-6 Semester Hr.
+lethal autonomous weapon systems, autonomous cars, and social robots,
+as well as higher-level concerns including economics, law, policy, and ROBO599. INDEPENDENT STUDY. 1-6 Semester Hr.
+discrimination. Graduate enrollees will additionally participate in and
+ROBO599. INDEPENDENT STUDY. 1-6 Semester Hr.
+report on the results of empirical and computational robot ethics research,
+with the goal of developing publishable works. ROBO707. GRADUATE THESIS / DISSERTATION RESEARCH
+Course Learning Outcomes CREDIT. 1-15 Semester Hr.
+Research credit hours required for completion of a Masters-level thesis
+• 1 - Understand the basic ethical theories, concepts, tools, and or Doctoral dissertation. Research must be carried out under the direct
+frameworks for analyzing the social and ethical ramifications of supervision of the student's faculty advisor. Variable class and semester
+robotics hours. Repeatable for credit.
+• 2 - Be able to critically examine the ethical significance of the
+use of robotics in daily and technical fields including human-robot
+interaction, medicine, relationship, military, etc.
+• 3 - Develop a critical attitude toward the role of robotics in shaping
+human society including human perceptions and behaviors
+• 4 - Be able to use the theories, concepts, tools, and frameworks
+learned from this class to critically examine emerging robot ethics
+issues in the society.
